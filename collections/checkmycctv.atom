@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.ipx360solutions.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.ipx360solutions.com/collections/checkmycctv.atom"/>
+  <title>IPX360 Solutions Inc</title>
+  <updated>2021-08-01T21:53:24-04:00</updated>
+  <author>
+    <name>IPX360 Solutions Inc</name>
+  </author>
+  <entry>
+    <id>https://www.ipx360solutions.com/products/6587972976740</id>
+    <published>2021-08-01T21:53:24-04:00</published>
+    <updated>2021-08-01T21:53:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/products/connect2mydevice"/>
+    <title>Connect2myDevice Secure Gateway (Available Soon)</title>
+    <s:type>Network Switches</s:type>
+    <s:vendor>CheckMySystems</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0000/4610/products/connect2mydevice_1.png?v=1627910031"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CheckMySystems<br>
+        <strong>Type: </strong>Network Switches<br>
+        <strong>Price: </strong>
+            89.00 - 259.00
+            <a href="https://www.ipx360solutions.com/products/connect2mydevice">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Simple</strong>, <strong>Secure</strong>, <strong>Cost Effective</strong> <strong>Connectivity</strong> to your customers’ CCTV and Security system for proactive maintenance checking, support or diagnostic purposes - <strong><em>with no onsite setup!</em> </strong><br></p>
+<p><strong>SIMPLE</strong><br> • Plug-and-Play, with no configuration required on site.</p>
+<p><strong>SECURE</strong> <br> • No ports to open on site. <br> • SSL connectivity. <br> • IP Address whitelisting and blocking.</p>
+<p><strong>COST EFFECTIVE</strong> <br> • Uses existing network connections. <br> • A low-cost hardware solution with Pay-As-You-Go monthly subscription plans. <br> • Added savings when bundled with <a href="https://www.ipx360solutions.com/checkmycctv" title="CheckMyCCTV by IPX360 Solutions">CheckMyCCTV™ System Status and Operation Monitoring services</a>.</p>
+<p> </p>
+<ul>
+<li>
+<strong>Connect2MyDevice Registration</strong><em>(coming soon)</em><strong></strong>
+</li>
+<li>
+<strong>Connect2MyDevice FAQ page </strong><em>(coming soon)</em>
+</li>
+</ul>
+<div style="text-align: center;"><a title="Book a Demo" href="https://www.ipx360solutions.com/bookademo"><img style="float: none; display: block; margin-left: auto; margin-right: auto;" alt="Book A Demo" src="https://cdn.shopify.com/s/files/1/0000/4610/files/bookademo_240x55a_100x100.png?v=1579277288"></a></div>
+<div style="text-align: center;"><span class="st"></span></div>
+<p> </p>
+<p style="text-align: center;"><em>Available Fall '21</em></p>
+<p><img alt="powered by CheckMySystems" src="https://cdn.shopify.com/s/files/1/0000/4610/files/powered_by_CheckMySystems_160x160.png?v=1628079885" style="float: right;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.ipx360solutions.com/products/6587972976740</id>
+      <title>Connect2MyDevice Gateway + Service Bundle (12 months)</title>
+      <s:price currency="USD">259.00</s:price>
+      <s:sku>C2MD-GW-12M</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.ipx360solutions.com/products/6587972976740</id>
+      <title>Connect2MyDevice Gateway (Add-On Service Plan Required)  )</title>
+      <s:price currency="USD">89.00</s:price>
+      <s:sku>C2MD-GW-NS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/products/6569400205412</id>
+    <published>2021-05-12T11:31:44-04:00</published>
+    <updated>2021-05-12T11:31:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/products/checkmycctv-for-monitoring-stations"/>
+    <title>CheckMyCCTV CLOUD Automated CCTV System Status Monitoring Service for Central Stations</title>
+    <s:type>Software</s:type>
+    <s:vendor>CheckMySystems</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0000/4610/products/CheckMyCCTV_Free_tile_720x_44b87827-43e5-4ea8-97f0-7d048ea46d71.jpg?v=1620828186"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CheckMySystems<br>
+        <strong>Type: </strong>Software<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2><span style="color: #ff0000;"><strong>Offer CheckMyCCTV™ Automated CCTV System Status Monitoring Service for Central Stations to your customers as an additional subscription service to increase your service portfolio. </strong></span></h2>
+<p><b>CheckMyCCTV™ CLOUD Service is a "Pay-As-You-Go" option aimed at Small to Medium sized security systems installers looking to offer enhanced services to their clients without any upfront hardware and infrastructure costs or long term commitment. </b></p>
+<p><strong data-mce-fragment="1">CheckMyCCTV™ for Central Stations</strong> offers a unique ability for Remote Monitoring Central Stations to offer their customers an automated testing and diagnostic solution to compliment their range of services. Along with ensuring your customers sites are secure, you will also be able to give them the assurance that their CCTV systems are operating correctly.</p>
+<p>By using <strong>CheckMyCCTV™ for Central Stations</strong> to remotely monitor the health and operation of your customers’ CCTV installations, your business will benefit from:</p>
+<ul>
+<li>Increased revenue streams</li>
+<li>Your own brand solution.</li>
+<li>Automated 24/7 Health Checking &amp; Event Notification.<br>
+</li>
+<li>Customizable Daily/Weekly System Status Reports.</li>
+<li>Fully scalable CLOUD and self-hosted solutions with low startup and running costs.</li>
+</ul>
+<p><b>CheckMyCCTV™</b> is compatible with a wide range of CCTV Systems and brands available on the market and is an affordable, highly scalable solution for monitoring anywhere from a single location system to hundreds and thousands of sites.</p>
+<p style="text-align: center;"><a title="CheckMyCCTV Sales Brochure" href="https://www.ipx360solutions.com//cmcctvcloud_ad" target="_blank"><strong>Download the sales brochure</strong></a></p>
+<p style="text-align: center;"><a title="CheckMyCCTV Brochure (EN/FR)" href="https://www.ipx360solutions.com//cmcctvcloud_ef" target="_blank"><strong>Téléchargez la brochure (bilingue)</strong></a></p>
+<h3></h3>
+<div style="padding: 5px 10px 10px 5px; border: 2px solid grey; width: 100%;">
+<h3 style="text-align: center;">See how CheckMyCCTV™ for Central Stations can work for you!</h3>
+<p><a href="https://www.ipx360solutions.com/pages/request-a-demo" title="Request a demo">Contact us</a> and we can discuss how you can become a CheckMyCCTV™ Monitoring Station Partner. We are offering Monitoring Stations a FREE 14-day trial, which we can remotely install and configure for you.</p>
+<p><a href="https://www.ipx360solutions.com/pages/request-a-demo" title="Request a demo"><img style="float: none; display: block; margin-left: auto; margin-right: auto;" alt="Book A Demo" src="https://cdn.shopify.com/s/files/1/0000/4610/files/bookademo_240x55a.png?v=1579277288" width="" height=""></a></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CCTV</s:tag>
+    <s:tag>CheckMyCCTV</s:tag>
+    <s:tag>Maintenance</s:tag>
+    <s:tag>Repair</s:tag>
+    <s:tag>Security</s:tag>
+    <s:tag>Software</s:tag>
+    <s:variant>
+      <id>https://www.ipx360solutions.com/products/6569400205412</id>
+      <title>CheckMyCCTV for Central Stations - FREE Trial</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>CM-CCTV-CFM1-FREE30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/products/6553797853284</id>
+    <published>2021-04-12T11:03:27-04:00</published>
+    <updated>2021-04-12T11:03:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/products/checkmycctv-cloud-automated-cctv-system-status-monitoring-service-free-trial"/>
+    <title>CheckMyCCTV CLOUD Automated CCTV System Status Monitoring Service for Installers</title>
+    <s:type>Software</s:type>
+    <s:vendor>CheckMySystems</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0000/4610/products/CheckMyCCTV_Free_tile_720x_7b968e26-a918-4582-87a3-c4c91b00e3a1.jpg?v=1618238590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CheckMySystems<br>
+        <strong>Type: </strong>Software<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2><span style="color: #ff0000;"><strong>Get alerted of system faults before they become critical using CheckMyCCTV™ CLOUD Services</strong></span></h2>
+<p><b>CheckMyCCTV™ CLOUD Service is a "Pay-As-You-Go" option aimed at Small to Medium sized security systems installers looking to offer enhanced services to their clients without any upfront hardware and infrastructure costs or long term commitment. </b></p>
+<p><strong>Your customers invest in CCTV systems to help protect their staff, assets, and buildings…<em> but are they working right now?</em></strong></p>
+<p><b>CheckMyCCTV™ CLOUD Service is the easiest and most cost effective way of offering your customers 24/7 system checking, <br></b></p>
+<p><strong> CheckMyCCTV™ CLOUD Service helps you: </strong></p>
+<ul>
+<li>Save Time, Money, and Energy by detecting and diagnosing issues remotely.</li>
+<li>Improve your maintenance costs by supplementing a scheduled maintenance visit with 24/7 remote checking.</li>
+<li>Improve your first visit fix rate.</li>
+<li>Provide Proactive rather than Reactive maintenance support. View the status of all your installations at any time.</li>
+</ul>
+<p><strong>CheckMyCCTV CLOUD Service</strong> automatically and autonomously monitors your sites for issues with your CCTV System via <strong>our secure ISO 27001 certified Cloud Server</strong>, and reports them to you or any of of your designated contacts.</p>
+<p><b>CheckMyCCTV</b> is compatible with a wide range of CCTV Systems and brands available on the market and is an affordable, highly scalable solution for monitoring anywhere from a single location system to hundreds and thousands of sites.</p>
+<p style="text-align: center;"><a title="CheckMyCCTV Sales Brochure" href="https://www.ipx360solutions.com//cmcctvcloud_ad" target="_blank"><strong>Download the sales brochure</strong></a></p>
+<p style="text-align: center;"><a title="CheckMyCCTV Brochure (EN/FR)" href="https://www.ipx360solutions.com//cmcctvcloud_ef" target="_blank"><strong>Téléchargez la brochure (bilingue)</strong></a></p>
+<h3></h3>
+<div style="padding: 5px 10px 10px 5px; border: 2px solid grey; width: 100%;">
+<h3 style="text-align: center;">Try before you buy offer: See how <b>CheckMyCCTV</b> can work for you!</h3>
+<p>For a limited time, order a <b>No Charge, No Hassle, No Obligation 14-Day Trial</b> to evaluate <b>CheckMyCCTV</b> with your own system.</p>
+<p>Simply add the item to your Cart and follow the Checkout instructions. You will be contacted by one of our team members with instructions and assistance on getting started.</p>
+<p><span class="legal"><em>Note: Limited time offer available to qualified CCTV Installers or Monitoring Stations with primary business location in United States or Canada (excluding Quebec). One trial per customer. Other restrictions apply. Offer may end at any time without notice</em></span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CCTV</s:tag>
+    <s:tag>CheckMyCCTV</s:tag>
+    <s:tag>Maintenance</s:tag>
+    <s:tag>Repair</s:tag>
+    <s:tag>Security</s:tag>
+    <s:tag>Software</s:tag>
+    <s:variant>
+      <id>https://www.ipx360solutions.com/products/6553797853284</id>
+      <title>CheckMyCCTV Cloud FREE Trial</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>CM-CCTV-CFM1-FREE30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/products/4291020521507</id>
+    <published>2019-10-20T08:59:48-04:00</published>
+    <updated>2019-10-20T08:59:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/products/checkmycctv-automated-cctv-system-status-monitoring-server-software-package-1"/>
+    <title>CheckMyCCTV Automated CCTV System Status Monitoring Stand Alone Server Software Package</title>
+    <s:type>Software</s:type>
+    <s:vendor>CheckMySystems</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0000/4610/products/CheckMyCCTV_Free_tile_720x_dcc38457-7b38-41ac-90b9-6fea4c44dfaf.jpg?v=1571576390"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CheckMySystems<br>
+        <strong>Type: </strong>Software<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Are your customers' CCTV Security Systems working right now?</h1>
+<h2>Get alerted of system faults before they become critical<strong>.</strong>
+</h2>
+<p><strong>CheckMyCCTV™</strong> standalone server software packaged is designed for Security Integrators and Central Monitoring Stations with existing the network infrastructure in place to offer as a service to customers. All that is needed is a dedicated server PC to run the service on, and CheckMyCCTV™ can be up and running in minutes. The service is priced on a low license cost per device, so you only pay for the connections you use.</p>
+<p><strong data-mce-fragment="1">CheckMyCCTV™</strong> software automatically and autonomously monitors and checks your installed CCTV sites every hour, detecting and reporting faults and issues using <strong>before</strong> they become critical. <strong></strong></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Your customers invest in CCTV systems to help protect their staff, assets, and buildings…<em data-mce-fragment="1"> but are they working right now?</em></strong></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1"> CheckMyCCTV™ helps you: </strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Save Time, Money, and Energy by detecting and diagnosing issues remotely.</li>
+<li data-mce-fragment="1">Improve your maintenance costs by supplementing a scheduled maintenance visit with 24/7 remote checking.</li>
+<li data-mce-fragment="1">Improve your first visit fix rate.</li>
+<li data-mce-fragment="1">Provide Proactive rather than Reactive maintenance support. View the status of all your installations at any time.</li>
+</ul>
+<p data-mce-fragment="1"><b data-mce-fragment="1">CheckMyCCTV</b> is compatible with a wide range of CCTV Systems and brands available on the market and is an affordable, highly scalable solution for monitoring anywhere from a single location system to hundreds and thousands of sites.</p>
+<p style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;"><a title="CheckMyCCTV Sales Brochure" href="https://www.ipx360solutions.com//cmcctvcloud_ad" data-mce-fragment="1" data-mce-href="https://www.ipx360solutions.com//cmcctvcloud_ad" target="_blank"><strong data-mce-fragment="1">Download the sales brochure</strong></a></p>
+<p style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;"><a title="CheckMyCCTV Brochure (EN/FR)" href="https://www.ipx360solutions.com//cmcctvcloud_ef" data-mce-fragment="1" data-mce-href="https://www.ipx360solutions.com//cmcctvcloud_ef" target="_blank"><strong data-mce-fragment="1">Téléchargez la brochure (bilingue)</strong></a></p>
+<br>
+<div style="padding: 5px 10px 10px 5px; border: 2px solid grey; width: 100%;">
+<h3 style="text-align: center;">Try before you buy offer: See how <b>CheckMyCCTV</b> can work for you!</h3>
+<p>For a limited time, order a <b>No Charge, No Hassle, No Obligation 14-Day Trial</b> to evaluate <b>CheckMyCCTV</b> with your own system.</p>
+<p>Simply click on the REQUEST INFO / QUOTE button and fill out the Contact form. One of our team members will contact you with instructions and assistance on getting started. </p>
+<p><span class="legal"><em>Note: Limited time offer available to qualified CCTV Installers or Monitoring Stations with primary business location in Canada or United States. One trial per customer. Other restrictions apply. Offer may end at any time without notice. <br></em></span></p>
+</div>
+<div style="text-align: center;"><center>
+<a href="https://www.kirschenbaumesq.com/article/the-alarm-exchange" target="_blank"><img src="https://www.kirschenbaumesq.com/images/upload/alarm-exchange-banner.jpg" alt="Kirschenbaum &amp; Kirschenbaum - Alarm Exchange" style="margin: 0pxpx 0pxpx 0pxpx 0pxpx; float: none;" width="95" height="51"></a> <a href="https://www.kirschenbaumesq.com/page/alarm-contracts" target="_blank"><img src="https://www.kirschenbaumesq.com/images/upload/alarm-security-contracts-link.jpg" alt="Kirschenbaum &amp; Kirschenbaum - Alarm and Security Contracts" style="float: none; border: 0px;" width="100" height="51"></a>
+</center></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CCTV</s:tag>
+    <s:tag>CheckMyCCTV</s:tag>
+    <s:tag>Maintenance</s:tag>
+    <s:tag>Repair</s:tag>
+    <s:tag>Security</s:tag>
+    <s:tag>Software</s:tag>
+    <s:variant>
+      <id>https://www.ipx360solutions.com/products/4291020521507</id>
+      <title>CheckMyCCTV Server FREE TRIAL</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>CMS-TRIAL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

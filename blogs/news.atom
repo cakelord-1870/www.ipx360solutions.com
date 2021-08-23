@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.ipx360solutions.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://www.ipx360solutions.com/blogs/news.atom"/>
+  <title>IPX360 Solutions Inc - IPX360 Solutions News</title>
+  <updated>2019-09-03T08:00:00-04:00</updated>
+  <author>
+    <name>IPX360 Solutions Inc</name>
+  </author>
+  <entry>
+    <id>https://www.ipx360solutions.com/blogs/news/visit-ipx360-solutions-at-security-canada-atlantic-in-moncton-new-brunswick-on-september-11-2019</id>
+    <published>2019-09-03T08:00:00-04:00</published>
+    <updated>2019-09-04T10:10:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/blogs/news/visit-ipx360-solutions-at-security-canada-atlantic-in-moncton-new-brunswick-on-september-11-2019"/>
+    <title>Visit IPX360 Solutions at Security Canada Atlantic in Moncton, New Brunswick on September 11, 2019</title>
+    <author>
+      <name>Regis Glorieux</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<span><span id="ember964" class="ember-view">We're exhibiting at the Security Canada Atlantic in Moncton, New Brunswick on September 11, 2019 Come by booth 409 and see the award-winning Hosted CheckMyCCTV™ solution in action</span></span><p><a class="read-more" href="https://www.ipx360solutions.com/blogs/news/visit-ipx360-solutions-at-security-canada-atlantic-in-moncton-new-brunswick-on-september-11-2019">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p><span><span id="ember964" class="ember-view">We're exhibiting at the Security Canada Atlantic in Moncton, New Brunswick on September 11, 2019 Come by booth 409 and see the award-winning Hosted CheckMyCCTV™ solution in action, and see how it is changing how CCTV systems are maintained. <a data-control-name="update_hashtag" target="_self" href="https://www.linkedin.com/feed/hashtag/?highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6572517545658593282&amp;keywords=%23MaintenanceReinvented&amp;originTrackingId=h0xeJSLD7DQh0sMX9xNaHA%3D%3D" id="ember967" class="hashtag-link ember-view"><span dir="ltr" id="ember968" class="hashtag-a11y ember-view"></span></a></span></span><span><span id="ember964" class="ember-view"><a data-control-name="update_hashtag" target="_self" href="https://www.linkedin.com/feed/hashtag/?highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6572517545658593282&amp;keywords=%23MaintenanceReinvented&amp;originTrackingId=h0xeJSLD7DQh0sMX9xNaHA%3D%3D" id="ember967" class="hashtag-link ember-view"><span dir="ltr" id="ember968" class="hashtag-a11y ember-view"><span aria-hidden="true">#</span><span class="hashtag-a11y__name">MaintenanceReinvented</span></span></a> Show info and registration: <a href="https://www.securitycanada.com/attend/atlantic/" target="_blank" rel="noopener noreferrer">https://www.securitycanada.com/attend/atlantic/</a></span></span></p>
+<p style="text-align: left;"><span><span class="ember-view"><img alt="CheckMyCCTV ad" src="//cdn.shopify.com/s/files/1/0000/4610/files/CheckMyCCTV_ad_large.png?v=1567017956" style="display: block; margin-left: auto; margin-right: auto; float: none;"></span></span></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/blogs/news/support-for-network-optix-s-nx-witness-and-digital-watchdog-spectrum-vms-platforms-added-to-checkmycctv</id>
+    <published>2019-02-18T07:00:00-05:00</published>
+    <updated>2019-02-18T07:00:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/blogs/news/support-for-network-optix-s-nx-witness-and-digital-watchdog-spectrum-vms-platforms-added-to-checkmycctv"/>
+    <title>Support for Network Optix’s Nx Witness and Digital Watchdog Spectrum VMS platforms added to CheckMyCCTV™</title>
+    <author>
+      <name>Regis Glorieux</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p style="float: left;"><a href="https://cdn.shopify.com/s/files/1/0000/4610/files/CMCCTV_Net_Optix_setup_scrn_1_04732117-fbb3-48fe-8f79-7acf0c461ad8.png?18103709185123592178" target="_blank" title="CheckMyCCTV Network Optix Nx Witness" rel="noopener noreferrer"><img alt="CheckMyCCTV NX Witness scrn" src="//cdn.shopify.com/s/files/1/0000/4610/files/CMCCTV_Net_Optix_setup_scrn_1_04732117-fbb3-48fe-8f79-7acf0c461ad8_medium.png?v=1550417211" style="float: left; margin: 15px;"></a>The latest release of CheckMyCCTV™ includes support for Network Optix’s Nx Witness and Digital Watchdog's Spectrum range of VMS and NVR recorders, joining the likes of <strong>Milestone, Avigilon, Vivotek, Hanwha Techwin, <a href="https://www.ipx360solutions.com/collections/predatorcctv" title="360 Predator Rugged PTZ">360 Vision</a></strong> and dozens of others to the ever increasing list of CheckMyCCTV™ supported brands and systems.<br><br> The CheckMyCCTV™ checks that can be performed on Nx Witness and DW Spectrum include:</p>
+<p><strong>Network Status </strong>– Ensures connectivity to the system.<br><strong>Camera Status </strong>– Checks the status of the cameras connected to the system.<br><strong>Image Check</strong> – Takes a snapshot from each camera each day and analyses it to ensure it has not lost alignment, too bright or dark, or out of focus.<br><strong>Record Duration </strong>– Ensures the system is recording for the correct user-defined time period.<br><strong>Recording Check  </strong>– Checks if the system is recording correctly.<br><strong>Time Accuracy </strong>– Ensures the time and date on the device is accurate. <b>…and more</b></p>
+<p style="float: left;"><a href="https://cdn.shopify.com/s/files/1/0000/4610/files/CMCCTV_DW_Spectrum_scrn_1.png?18103709185123592178" target="_blank" title="CheckMyCCTV DW Spectrum" rel="noopener noreferrer"><img alt="CheckMyCCTV DW Spectrum scrn" src="//cdn.shopify.com/s/files/1/0000/4610/files/CMCCTV_DW_Spectrum_scrn_1_medium.png?v=1550417297" style="float: left; margin: 15px;"></a> These checks ensure that the system is working and operating as expected in a fraction of the time it takes to manually check them.<br><br>More than 15,000 CCTV systems are checked every hour of every day using CheckMyCCTV™. <br><br>Now is the time to join hundreds of Installers and Monitoring stations offering 24/7 system checking as part of their service and ensuring that their installed systems are working and operating as expected in a fraction of the time it takes to manually check them..</p>
+<p>For more information and our FREE TRIAL offer, <a href="https://www.ipx360solutions.com/checkmycctv" title="CheckMyCCTV">Click Here</a></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/blogs/news/new-360-predator-rugged-ptz-camera-sales-brochure-available-for-download</id>
+    <published>2017-01-03T16:49:00-05:00</published>
+    <updated>2017-01-03T16:57:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/blogs/news/new-360-predator-rugged-ptz-camera-sales-brochure-available-for-download"/>
+    <title>New 360 PREDATOR Rugged PTZ Camera Sales Brochure available!</title>
+    <author>
+      <name>Regis Glorieux</name>
+    </author>
+    <content type="html">
+      <![CDATA[<div style="float: left;">
+<img alt="360 PREDATOR Sales Brochure" src="//cdn.shopify.com/s/files/1/0000/4610/files/360PRED_Broch2017_medium.jpg?v=1483478306" style="float: left; margin-right: 10px; margin-bottom: 10px;"> Download the latest 360 PREDATOR Rugged PTZ Camera sales brochure with information on new models and features. Available in <strong><a href="http://go.ipx360.com/360PREDATOR_Brochure" target="_blank" title="360 PREDATOR Sales Brochure">English</a></strong>, <strong><a href="http://go.ipx360.com/360PREDATOR_Brochure_fr" target="_blank" title="360 PREDATOR Sales Brochure - Francais">French</a></strong> and <strong><a href="http://go.ipx360.com/360PREDATOR_Brochure_es" target="_blank" title="360 PREDATOR Sales Brochure - Espanol">Spanish</a></strong>. <em>(pdf document)</em><br><br>Téléchargez la plus récente brochure pour la caméra motorisée PTZ robuste 360 PREDATOR avec détails sur les nouveaux modèles et caractéristiques. Disponible en <strong><a href="http://go.ipx360.com/360PREDATOR_Brochure_fr" target="_blank" title="360 PREDATOR Sales Brochure - Francais">Français</a></strong>, <strong><a href="http://go.ipx360.com/360PREDATOR_Brochure" target="_blank" title="360 PREDATOR Sales Brochure">Anglais</a></strong> et <strong><a href="http://go.ipx360.com/360PREDATOR_Brochure_es" target="_blank" title="360 PREDATOR Sales Brochure - Espanol">Espagnol</a></strong><br><br>Descargar el catálogo más reciente de la cámara PTZ robusto 360 PREDATOR con información sobre nuevos modelos y características. Disponible en <strong><a href="http://go.ipx360.com/360PREDATOR_Brochure_es" target="_blank" title="360 PREDATOR Sales Brochure - Espanol">Español</a>, <strong><a href="http://go.ipx360.com/360PREDATOR_Brochure" target="_blank" title="360 PREDATOR Sales Brochure">Ingles</a></strong> y <a href="http://go.ipx360.com/360PREDATOR_Brochure_fr" target="_blank" title="360 PREDATOR Sales Brochure - Francais">Francés</a></strong>
+</div>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/blogs/news/114492548-new-360-predator-steel-north-america-pre-launch-during-isc-west</id>
+    <published>2016-03-31T10:29:00-04:00</published>
+    <updated>2016-03-31T10:37:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/blogs/news/114492548-new-360-predator-steel-north-america-pre-launch-during-isc-west"/>
+    <title>New 360 PREDATOR STEEL North America Pre Launch during ISC West</title>
+    <author>
+      <name>Regis Glorieux</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p><span class="_fbReactionComponent__eventDetailsContent fsl">We are pleased to announce an exclusive, by appointment only private showing of the all new 360 PREDATOR STEEL Ultra-Rugged High Definition PTZ in Las Vegas, NV</span> during the ISC West Expo.</p>
+<p><a title="New PREDATOR Steel ISC West pre-launch " target="_blank" href="https://www.facebook.com/events/1107085612648312/">Click here for more details</a></p>
+<p><a title="New PREDATOR Steel ISC West Pre-Launch" target="_blank" href="https://www.facebook.com/events/1107085612648312/"><img src="//cdn.shopify.com/s/files/1/0000/4610/files/360PRED_Steel_ISCW16_2_grande.png?13678081682926272615" alt=""></a></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/blogs/news/85239556-feb-11th-ipx360-solutions-montreal-open-house-event-journee-portes-ouvertes</id>
+    <published>2016-02-04T08:41:00-05:00</published>
+    <updated>2016-02-04T08:41:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/blogs/news/85239556-feb-11th-ipx360-solutions-montreal-open-house-event-journee-portes-ouvertes"/>
+    <title>Feb 11th IPX360 Solutions Montreal Open House Event / Journée Portes Ouvertes</title>
+    <author>
+      <name>Regis Glorieux</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p style="float: left;"><img alt="IPX360 Solutions Open House 2016" src="//cdn.shopify.com/s/files/1/0000/4610/files/IPX360_OpenHouse_160211_large.PNG?18348596995156357116" style="float: left; margin-right: 10px;"></p>
+<p> </p>
+<p>IPX360 Solutions is pleased to be holding an "Open House Day" Event at their new Montreal facility on Feb 11. Throughout the day, visitors will have the opportunity to view and interact with the latest fixed and mobile video innovations from our key partners 360 Vision Technology, WCCTV and CheckMyCCTV as well as other some of our other product offerings in asset tracking and A/V. If interested in more information or to confirm registration, contact us at 514-312-4272 or email info@ipx360solutions.com</p>
+<p>===</p>
+<p><span id="result_box" class="" lang="fr"><span class="hps">IPX360</span> <span class="hps">Solutions annonce </span><span class="hps">la tenue</span> <span class="hps">d'un événement</span> <span class="hps atn">"</span><span class="">Journée Portes Ouvertes</span><span>"</span> <span class="hps">à leur</span> <span class="hps">nouveau bureau d</span><span class="hps">e Montréal</span> le jeudi 11 <span class="hps">février</span><span class="hps">.</span> <span class="hps">Tout au long de</span> <span class="hps">la journée</span><span class="">, les visiteurs auront</span> <span class="hps">l'occasion de voir</span> <span class="hps">et d'interagir</span> <span class="hps">avec les dernières</span> <span class="hps">innovations en matière solutions </span><span class="hps">vidéo pour installations fixes ou mobile</span> <span class="hps">de</span> <span class="hps">nos partenaires</span> <span class="hps">360</span> <span class="hps">Vision, </span><span class="hps">WCCTV</span> <span class="hps">et CheckMy</span><span class="hps">CCTV</span> <span class="hps">ainsi que </span><span class="hps">certaines de nos</span> <span class="hps">autres</span> <span class="hps">gammes de produits</span> offertes <span class="hps">pour des applications de </span><span class="hps">suivi des actifs</span> ou audio-visuel<span class="hps"></span><span>.</span> <span class="hps">Si vous êtes intéressé</span> <span class="hps">à en savoir plus</span> <span class="hps">ou pour</span> <span class="hps">confirmer votre inscription</span><span>,</span> <span class="hps">contactez-nous au</span> <span class="hps">514-312-4272</span> <span class="hps">ou par courriel</span> <span class="hps">info@ipx360solutions.com</span></span></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/blogs/news/82938756-ipx360-solutions-opens-expanded-sales-office-and-service-facility-in-montreal</id>
+    <published>2016-01-08T01:00:13-05:00</published>
+    <updated>2016-01-08T01:00:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/blogs/news/82938756-ipx360-solutions-opens-expanded-sales-office-and-service-facility-in-montreal"/>
+    <title>IPX360 Solutions Opens Expanded Sales Office and Service Facility in Montreal</title>
+    <author>
+      <name>Regis Glorieux</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p><strong>IPX360 Solutions Opens Expanded Sales Office and Service Facility in Montreal</strong><br><br><em><strong>Montreal, QC (Jan 7, 2016)</strong></em> — As part of its ongoing growth and continued expansion into new markets in North America and selected countries in Latin America, <strong>IPX360 Solutions</strong> is pleased to announce the relocation of its main Canadian office to a new facility in Montreal. <br><br>The new facility, situated at 9361 Rue Lajeunesse , is designed with the intention to better serve <strong>IPX360 Solutions</strong>' clients’ every needs with a fully functional product demo and training area, expanded warehouse, factory certified service department and more.<br><br>“Our goal is to get closer to our clients, channel partners and consultants by giving them easy access and hands-on experience with some of the innovative technology products and solutions from our manufacturer partners, including the <strong>360 Vision</strong> <em>Predator</em> rugged PTZ camera range, <strong>Wireless CCTV</strong> 4G/LTE Video Surveillance systems, <strong>CheckMyCCTV</strong> System Maintenance and Status Monitoring and <strong>Roemtech</strong> plenum rated audio products." says Regis Glorieux, principal owner of <strong>IPX360 Solutions Inc</strong>. <br><br>“The new more convenient and customer friendly location coincides with our upcoming 5th Anniversary and is one of the many exciting projects we have in store for 2016 ! Stay tuned for some event announcements in the coming weeks.” <br><br><strong>About IPX360 Solutions</strong><br><br><strong>IPX360 Solutions Inc</strong> is a Canadian based company specialized in supplying B2B product solutions for audio-visual, electronic security and asset tracking applications to markets in Canada, United States and selected countries in Latin America via a network of authorized resellers and wholesale partners.</p>
+<p>Contact:<br>IPX360 Solutions Inc <br>866-790-4777<br>info@ipx360solutions.com</p>
+<p style="text-align: left;"><img alt="IPX360 Main Office" src="//cdn.shopify.com/s/files/1/0000/4610/files/IPXWDHQ_mosaic_new_1024x1024.png?4433155228173307120" style="float: none;"></p>
+<p><strong>IPX360 Solutions ouvre un nouveau bureau de ventes et centre de service à Montréal</strong><br><br><strong><em>Montréal, QC (7 janvier 2016)</em></strong> – Pour mieux répondre aux besoins de sa clientèle grandissante au Canada et l'expansion continue vers de nouveaux marchés en Amérique du Nord et en Amérique latine, <strong>IPX360 Solutions</strong> est fière d'annoncer l'ouverture d'un nouveau bureau à Montréal.<br><br>Le nouvel établissement, situé au 9361, rue Lajeunesse, est conçu dans le but de mieux servir les clients de IPX360 Solutions avec un espace démo et formation interactifs, un espace d'entreposage élargi, centre de service et de réparation certifié, et plus encore.<br><br>"Notre objectif est de nous rapprocher de nos clients, consultants et partenaires d'affaires en leur donnant un accès et une expérience plus interactive et approfondie avec certains des produits et des solutions technologiques innovatrices de nos partenaires fabricants, y compris la gamme de caméras PTZ robustes <em>Predator</em> de <strong>360 Vision</strong>, les systèmes de surveillance vidéo sans fil 4G/LTE de <strong>Wireless CCTV</strong>, le service de vérification automatique d’état de systèmes <strong>CheckMyCCTV</strong>, les produits audio <strong>Roemtech</strong> et plus encore" dit Régis Glorieux, propriétaire principal de <strong>IPX360 Solutions Inc</strong>.<br><br>"Le nouvel emplacement, plus pratique et convivial, coïncide avec l’arrivée prochaine de notre 5ème anniversaire et est l'un des nombreux projets passionnants que nous avons planifiés pour 2016! Restez à l'écoute pour certaines annonces d'événements à venir dans les prochaines semaines ".<br><br><strong>A propos de IPX360 Solutions</strong><br><br><strong>IPX360 Solutions Inc</strong> est une compagnie canadienne spécialisée dans la vente et fourniture de solutions de produits pour applications en audio-visuel, sécurité électronique et repérage d'actifs par GPS aux marchés du Canada, des États-Unis et certains pays en Amérique latine via un réseau de partenaires distributeurs et revendeurs agréés. <br><br>Contact:<br>IPX360 Solutions Inc <br>866-790-4777<br>info@ipx360solutions.com</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/blogs/news/26809604-360-vision-technology-release-predator-steel-rugged-ptz-camera</id>
+    <published>2015-05-25T07:00:03-04:00</published>
+    <updated>2015-05-25T07:00:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/blogs/news/26809604-360-vision-technology-release-predator-steel-rugged-ptz-camera"/>
+    <title>360 Vision Technology release Predator ‘Steel’ Rugged PTZ Camera</title>
+    <author>
+      <name>Regis Glorieux</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<strong>CCTV design and manufacturing company, 360 Vision Technology, has announced the release of a new stainless steel variant to their range of highly successful Predator ruggedized high-speed PTZ camera systems.</strong><p><a class="read-more" href="https://www.ipx360solutions.com/blogs/news/26809604-360-vision-technology-release-predator-steel-rugged-ptz-camera">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p style="float: left;"><img alt="360 Vision Technology" src="//cdn.shopify.com/s/files/1/0000/4610/files/360LogoLargeCropped_compact.jpg?10455695474303900964" style="float: left; margin-right: 15px; margin-bottom: 15px;"><em><small>[18 May 2015] Source: 360 Vision Technology</small></em><br><strong>CCTV design and manufacturing company, 360 Vision Technology, has announced the release of a new stainless steel variant to their range of highly successful Predator ruggedized high-speed PTZ camera systems.</strong></p>
+<p>Featuring a compact and robust housing fabricated from anti-corrosive 316L stainless steel, ‘<strong><a title="360 PREDATOR Steel" href="http://www.ipx360solutions.com/products/360-predator-steel">Predator Steel</a></strong>’ has been designed to withstand the toughest of operational environments.</p>
+<p>Offering advanced performance throughout a range of extreme temperatures (-40oC to +60oC), <strong><a title="360 PREDATOR Steel" href="http://www.ipx360solutions.com/products/360-predator-steel">Predator Steel</a></strong> is ideal for installation within petrochemical, aviation, oil &amp; gas, ports, and onshore &amp; offshore marine surveillance applications.</p>
+<p style="float: left;"><img alt="360 PREDATOR STEEL" src="//cdn.shopify.com/s/files/1/0000/4610/files/360PRED_Steel_medium.jpg?5963247574832697143" style="margin-right: 15px; margin-bottom: 15px; float: left;">With a variety of HD and analogue colour/mono camera, and lens size variants available, <strong><a title="360 PREDATOR Steel" href="http://www.ipx360solutions.com/products/360-predator-steel">Predator Steel</a></strong> features the same fully-featured performance as the rest of the highly popular <strong><a title="360 PREDATOR Rugged PTZ" href="http://www.360predator.com">Predator</a></strong> camera range. Models include cameras with Sony ExView 670 TVL resolution, low-light capability down to just 0.01Lux, up to 44x zoom capability with autofocus, and Wide Dynamic Range for excellent low-light imaging. In addition, 360 Vision software for colour/mono switchover, 360 pre-sets, 16 tours and multiple control protocols are all built-in as standard, to complete the camera’s enviable specification.<br><br> “‘Retaining the look, size and performance of <strong><a title="360 PREDATOR Rugged PTZ" href="http://www.360predator.com">Predator</a></strong> but with the strength of a stainless steel IP68 rated housing, the introduction of this new compact stainless steel version provides installers and end-users with a competitively priced and rugged camera system suitable for deployment within hazardous environments,” says Mark Rees, Business Development Director at <strong><a title="360 Vision Technology" target="_blank" href="http://www.360visiontechnology.com">360 Vision Technology</a></strong>. “In addition to great performance, <strong><a title="360 PREDATOR Steel" href="http://www.ipx360solutions.com/products/360-predator-steel">Predator Steel</a></strong> is backed by 360 Vision’s 3 Year Warranty, and first-class sales and after sales technical support.”</p>
+<p style="float: left;"><strong><a title="About IPX360 Solutions" href="http://www.ipx360solutions.com/pages/about-us">IPX360 Solutions Inc</a></strong> is partnered with <strong><a title="360 Vision Technology" target="_blank" href="http://www.360visiontechnology.com">360 Vision Technology</a></strong> to provide sales, logistics and after sales support services in Canada, United States and selected countries in Latin America via a network of authorized value added resellers (VAR).</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/blogs/news/17350024-overview-of-ipx360-solutions-and-some-our-vendor-partner-product-offerings-video</id>
+    <published>2015-02-22T14:35:00-05:00</published>
+    <updated>2015-02-22T14:36:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/blogs/news/17350024-overview-of-ipx360-solutions-and-some-our-vendor-partner-product-offerings-video"/>
+    <title>Overview of IPX360 Solutions and some our vendor partner product offerings (VIDEO)</title>
+    <author>
+      <name>Regis Glorieux</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>IPX360 Solutions is a wholesale supplier of specialized products and solutions for audio-visual, video surveillance and electronic security markets in Canada, United States and select countries in Latin America.<br><br>Visit our web site at <a title="IPX360 Solutions" href="http://www.ipx360solutions.com">www.ipx360solutions.com</a> and follow us on Facebook @ <a title="Like IPX360 Solutions on Facebook" target="_blank" href="http://www.facebook.com/ipx360solutions">facebook.com/ipx360solutions</a><br><br> <iframe src="https://www.youtube.com/embed/b1S9OzpH8eY" allowfullscreen="" width="640" frameborder="0" height="480"></iframe> <br>[<em><a title="Overview of IPX360 Solutions video" target="_blank" href="http://youtu.be/b1S9OzpH8eY">View on YouTube</a></em>]</p>
+<p> </p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/blogs/news/15708784-visit-ipx360-solutions-at-securetech-2014-in-ottawa-on-nov-4-5-booth-300</id>
+    <published>2014-10-27T10:19:00-04:00</published>
+    <updated>2014-10-27T10:21:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/blogs/news/15708784-visit-ipx360-solutions-at-securetech-2014-in-ottawa-on-nov-4-5-booth-300"/>
+    <title>Visit IPX360 Solutions at SecureTech 2014 in Ottawa on Nov 4-5 (Booth 300)</title>
+    <author>
+      <name>Regis Glorieux</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p style="text-align: left;"> </p>
+<center>
+<img alt="" src="https://cdn.shopify.com/s/files/1/0000/4610/files/360PRED_TC100_Thermal_small.jpg?425" style="float: none;">   <a title="Securetech 2014 Registration" target="_blank" href="https://www.securetechcanada.ca/index.php?action=events.functionReg&amp;eventID=265"><img alt="" src="//cdn.shopify.com/s/files/1/0000/4610/files/IPX360_Securetech_header_grande.png?424" style="float: none;"></a>   <img alt="WCCTV Body Worn Video System" src="https://cdn.shopify.com/s/files/1/0000/4610/products/Bodyworn_Image_small.png?v=1413292295">
+</center>
+<p> </p>
+<p style="float: left;"><a title="IPX360 Solutions" href="http://www.ipx360solutions.com">I</a><a title="IPX360 Solutions" href="http://www.ipx360solutions.com">PX360 Solutions</a> and our partners <a target="_blank" title="360 Vision Technology" href="http://www.360visiontechnology.com">360 Vision Technology</a> and <a title="Wireless CCTV Systems" target="_blank" href="http://www.wcctv.co.uk/index.htm">Wireless CCTV Systems</a> will exhibiting at <a title="Securetech 2014" target="_blank" href="https://www.securetechcanada.ca/index.php">SecureTech 2014</a> - Canada’s public safety and national security conference and trade show - being held at the Ottawa Convention Center on November 4th and 5th.</p>
+<p style="float: left;">Come join us at booth 300 as we showcase the latest Thermal and HD PTZ cameras, 4G and Body Worn Video Solutions designed for security, law enforcement and defense applications. Among or new and featured products:</p>
+<p> </p>
+<ul>
+<li>
+<strong><a title="HD PREDATOR Rugged PTZ Camera" href="http://www.ipx360solutions.com/products/360-vision-hd-predator-ip-rugged-ptz-camera">HD PREDATOR</a></strong> Rugged Motorized PTZ Camera -  Full 1080p HD resolution with 30X optical zoom, IP68 Certified and designed for the harshest environments,</li>
+<li>
+<strong><a title="PREDATOR Rugged PTZ cameras" href="http://360predator.com">PREDATOR TC100</a></strong> - Takes thermal PTZ cameras to a whole new level! New 35 to 100mm lenses allows for Human Detection to 2.5km !</li>
+<li>
+<strong><a title="PREDATOR 4G Heavy Duty Wireless PTZ Camera" href="http://www.predator4g.com">PREDATOR 4G</a></strong> - Heavy Duty PTZ camera with IR + White light illumination plus on board storage for up to 30 days, operates on 3G and LTE wireless networks designed for rapid deployment in any temporary, mobile or semi-permanent application.</li>
+<li>
+<strong><a title="WCCTV Body Worn Video Systems" href="http://www.ipx360solutions.com/products/wireless-cctv-body-worn-surveillance-systems">WCCTV Body Worn Video Surveillance System</a></strong> - All-in-one body worn surveillance with remote access to live video and recorded video with bi-directional audio, panic alarm and GPS location info. Perfectly suited for both overt and covert environments.</li>
+</ul>
+<p style="float: left;"> <a target="_blank" title="SecureTech Invite from IPX360 Solutions" href="https://www.securetechcanada.ca/index.php?action=events.functionReg&amp;eventID=265">Click here for a complimentary trade show exhibits pass</a></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/blogs/news/15506372-wcctv-llc-and-ipx360-solutions-announce-strategic-partnership-for-canada</id>
+    <published>2014-09-28T22:00:25-04:00</published>
+    <updated>2014-09-28T22:00:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/blogs/news/15506372-wcctv-llc-and-ipx360-solutions-announce-strategic-partnership-for-canada"/>
+    <title>WCCTV LLC and IPX360 Solutions Announce Strategic Partnership for Canada</title>
+    <author>
+      <name>Regis Glorieux</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p><strong>Press Release</strong><br /><strong>25/09/2014</strong><br /><strong>For immediate release</strong></p>
+<p> </p>
+<h1>WCCTV LLC and IPX360 Solutions Announce Strategic Partnership for Canada</h1>
+<p>Summary: Wireless CCTV LLC, a market leading manufacturer of redeployable surveillance solutions, and IPX360 Solutions Inc, a Canadian based company specializing in B2B product solutions for audio-visual, electronic security and asset tracking applications, announce a strategic partnership to provide rapidly deployable, portable surveillance solutions to Canadian Markets.</p>
+<p>Wireless CCTV LLC (WCCTV), the world-leading provider of rapidly deployable, portable CCTV and surveillance systems, and IPX360, a specialist provider of B2B product solutions for audiovisual, electronic security, have announced the launch of a strategic partnership to address the growing requirement for remote, portable and temporary surveillance solutions within Canada.</p>
+<p><br />WCCTV is a UK based manufacturer and systems provider with offices in Greater Manchester, London and Dallas, Texas. The Company specialise in the transmission of live and recorded video, audio and alerts via cellular networks to provide security and surveillance on a temporary, semi-permanent and permanent basis. The Company is the first organization to<br />have a video surveillance product available in the US that has achieved Verizon certification.</p>
+<p><br />The systems have been developed in conjunction with Municipal and Federal Government, Law Enforcement and Homeland Security organizations as well as oil, gas, construction and utility companies.</p>
+<p><br />IPX360 Solutions Inc.’s existing pedigree in providing audio-visual, electronic security and asset tracking applications to Canadian companies has led to the identification the many benefits of such systems, and IPX360 will be responsible for taking the products to market in Canada.</p>
+<p><br />Speaking on the launch of the strategic partnership in Canada, WCCTV’s Sales Director Adam Haworth said “We’re delighted to be partnering with a company with a strong pedigree and understanding of the security needs of Canadian companies, and look forward to adding real value to the market place.”</p>
+<p><br />Regis Glorieux, Principal at IPX360 Solutions Inc said “This partnership represents a fantastic opportunity for WCCTV’s products to assist Canadian companies in becoming more flexible and responsive in the way they monitor and secure sites and assets via the innovative use of wireless technologies.”</p>
+<p><br />The companies will be exhibiting at SecureTech 2014, Canada’s leading public safety, emergency management and security showcase , November 2nd - 4th. Visit them on stand 300 to learn more about rapidly deployable and body worn video surveillance systems.</p>
+<p><br />-Ends-</p>
+<p>Notes for editor:</p>
+<p>• WCCTV was founded in the UK in 2001. Following initial research and development, the company grew quickly to become the UK market leading manufacturer of portable, mobile surveillance solutions</p>
+<p><br />• WCCTV has offices in Rochdale, London, Paris and Dallas, Texas</p>
+<p><br />• WCCTV was awarded the Queen’s Award for Enterprise: Innovation by Her Majesty Queen Elizabeth II in 2009</p>
+<p><br />• WCCTV has a commendation from the UK Home Office Scientific Development Branch for its covert vehicle solutions</p>
+<p><br />• WCCTV is the first company to have a video product certified by Verizon Wireless in the US</p>
+<p><br />For more information contact Daniel del Soldato, WCCTV Marketing Manager:<br />danieldelsoldato@wcctv.com </p>
+<p> </p>
+<p><strong><em><a target="_blank" href="https://drive.google.com/file/d/0BxlYKRQrA6rNTEVRdWhySEZqSnh0QV9JaVM0SC0ySzdsMXow/edit?usp=sharing">Download pdf</a></em></strong></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/blogs/news/15254853-ipx360-solutions-celebrates-3rd-anniversary-and-record-sales-results</id>
+    <published>2014-09-01T23:00:00-04:00</published>
+    <updated>2014-09-01T23:00:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/blogs/news/15254853-ipx360-solutions-celebrates-3rd-anniversary-and-record-sales-results"/>
+    <title>IPX360 Solutions Celebrates 3rd Anniversary and Record Sales Results!</title>
+    <author>
+      <name>Regis Glorieux</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>IPX360 Solutions is delighted to be celebrating its 3rd anniversary as leading B2B supplier of product solutions for audio-visual, electronic security and asset tracking applications. We are equally pleased to announce a third consecutive year of record-breaking sales, with 300% year over year growth in each of the past 3 years!</p>
+<p>From humble beginnings in 2011 as an outsource venture for an established sales agency, IPX360 Solutions set out on a mission to offer enhanced sales, logistics, support services and providing a more efficient route to market for international partner companies looking to establish or increase their presence in Canada, US and areas in Latin America.</p>
+<p>"While our main business strategy is based on the core 3 "<strong>P</strong>"'s of marketing: Deliver the right <strong>P</strong>roduct, at the right <strong>P</strong>rice at the right <strong>P</strong>lace and time.” said Regis Glorieux, co-founder and principal owner at IPX360 Solutions. “We are driven by the words of the great Albert Einstein: 'Strive not to be a success, but rather to be of value.'"</p>
+<p>"IPX360 Solutions' tenacity in support &amp; all round customer service is entirely the reason they have enjoyed amazing growth and success and in turn, the growth &amp; success of the Predator/360 Vision brand in the Americas." said Mark Rees, International Business Development Director for 360 Vision Technology in UK, one of our key vendor partners</p>
+<p>The IPX360 Solutions team would like to extend deepest thanks to all of our customers, vendor and channel partners for the ongoing support and trust you have placed in us since the start. Our first 3 years have been a thoroughly enjoyable and rewarding adventure and we truly look forward to continuing to build stronger relationships in the years ahead.</p>
+<p>Stay tuned for several exciting product announcements and initiative in coming weeks!</p>
+<p> </p>
+<p style="text-align: left;"><img alt="IPX360 Solutions" src="//cdn.shopify.com/s/files/1/0000/4610/files/IPX360_BADGE_400x400_small.png?413" style="float: none; margin-right: 5px; margin-bottom: 5px;" /></p>
+<p><em>Contact:</em><br /> <strong>IPX360 Solutions Inc</strong><br /> 500-2348 Ch Lucerne<br /> Mont-Royal QC H3R 2J8</p>
+<p>Toll free: 866-790-4777</p>
+<p><a title="IPX360solutions.com" href="http://www.ipx306solutions.com">www.ipx306solutions.com</a></p>
+<p>email: info @ ipx360solutions.com</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/blogs/news/12175829-360-vision-speaks-about-predator-with-securitynewsdesk-at-intersec-dubai-2014-video</id>
+    <published>2014-02-10T07:00:00-05:00</published>
+    <updated>2014-02-10T07:00:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/blogs/news/12175829-360-vision-speaks-about-predator-with-securitynewsdesk-at-intersec-dubai-2014-video"/>
+    <title>360 Vision speaks about PREDATOR with SecurityNewsDesk at Intersec Dubai 2014 (video)</title>
+    <author>
+      <name>Regis Glorieux</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>360 Vision Technology speaks with <a target="_blank" href="http://www.securitynewsdesk.com">SecurityNewsDesk</a> about the latest PREDATOR HD and Thermal Rugged PTZ offerings at Intersec Expo in Dubai</p>
+<p><iframe src="//www.youtube.com/embed/YS7t1ops6xo" allowfullscreen="allowfullscreen" width="853" frameborder="0" height="480"></iframe></p>
+<p><em><strong><a title="360PREDATOR.com" href="http://360PREDATOR.com">More about the 360 PREDATOR product lineup</a></strong></em></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/blogs/news/9671643-come-and-see-the-hd-predator-rugged-ptz-camera-at-securetech-ottawa-booth-607</id>
+    <published>2013-10-17T09:00:01-04:00</published>
+    <updated>2013-10-19T20:31:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/blogs/news/9671643-come-and-see-the-hd-predator-rugged-ptz-camera-at-securetech-ottawa-booth-607"/>
+    <title>Come and see the HD PREDATOR Rugged PTZ camera at Securetech Ottawa - Booth 607</title>
+    <author>
+      <name>Regis Glorieux</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p style="text-align: left;"><img src="//cdn.shopify.com/s/files/1/0000/4610/files/securtech_header.jpg?343" /></p>
+<p><img style="margin-right: 10px; float: left;" src="//cdn.shopify.com/s/files/1/0000/4610/products/PRED_HD_thumb_medium.png?343" /><a title="IPX360 Solutions" href="http://www.ipx360solutions.com">IPX360 Solutions</a> and our partner <a target="_blank" title="360 Vision Technology" href="http://www.360visiontechnology.com">360 Vision Technology</a> will be attending and exhibiting at <a title="Securetech 2013" target="_blank" href="https://www.securetechcanada.ca/index.php">SecureTech 2013</a>  - Canada’s public safety and national security conference and trade show - being held at the Ottawa Convention Center on October 29-30.</p>
+<p>Come join us at booth 607 as we showcase the latest addition to the <a title="PREDATOR Rugged PTZ Camera" href="http://360PREDATOR.com">PREDATOR range or Rugged Motorized PTZ Cameras</a>: the new IP68 Certified, Full 1080p HD PREDATOR.</p>
+<p>The <a title="PREDATOR Rugged PTZ Camera" href="http://360PREDATOR.com">PREDATOR Rugged Motorized Pan Tilt Zoom Camera range</a>, designed and manufactured in UK by <a target="_blank" title="360 Vision Technology" href="http://www.360visiontechnology.com">360 Vision Technology</a>, now comes in several different video formats including High-Resolution <a title="PREDATOR Rugged PTZ Camera" href="http://360PREDATOR.com">Analogue and IP</a> with both SD and <a title="HD PREDATOR Rugged PTZ Camera" href="http://www.ipx360solutions.com/products/360-vision-hd-predator-ip-rugged-ptz-camera">HD 1080P Megapixel resolution</a> and is available in black, grey, white or custom colours.</p>
+<p><a title="PREDATOR Rugged PTZ Camera" href="http://360PREDATOR.com">PREDATOR</a> is a truly rugged, high-precision PTZ camera designed for the most demanding environments and applications. All models are certified to meet IP68 standards for protection against dust or water and built to operate in temperatures from -40° to +70° C.</p>
+<p><a title="PREDATOR Rugged PTZ Camera" href="http://360PREDATOR.com">PREDATOR</a> night vision options include IR (infrared) illumination with effective range of up to 125m (400ft) which can also be combined with White Light and/or Thermal for effective performance in any lighting condition.</p>
+<p><a title="SecureTech Invite from IPX360 Solutions" href="http://go.ipx360.com/securetech2013">Click here for a complimentary trade show exhibits pass</a></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/blogs/news/9671393-see-the-hd-predator-camera-at-security-canada-expo-booth-136</id>
+    <published>2013-10-16T08:23:56-04:00</published>
+    <updated>2013-10-16T17:27:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/blogs/news/9671393-see-the-hd-predator-camera-at-security-canada-expo-booth-136"/>
+    <title>See the HD PREDATOR camera at Security Canada Expo - Booth 136</title>
+    <author>
+      <name>Regis Glorieux</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p><img style="margin-right: 10px; float: left;" alt="PREDATOR Rugged PTZ" src="//cdn.shopify.com/s/files/1/0000/4610/files/IMG_0261_compact.JPG?337" />Come and see the new IP68 Certified, 1080p Full <strong><a title="HD PREDATOR Rugged PTZ Camera" href="http://www.ipx360solutions.com/products/360-vision-hd-predator-ip-rugged-ptz-camera">HD PREDATOR Rugged PTZ camera</a></strong> which will be on display in our partner <a title="GP Marketing Canada" target="_blank" href="http://www.gpmarketingcanada.com">GP Marketing Canada</a>'s booth 136 at the upcoming <strong><a title="See the HD PREDATOR in booth 136 at Security Canada Central" target="_blank" href="http://www.securitycanadaexpo.com/en/attendees/central/">Security Canada International Security Conference and Expo</a></strong> - one of the leading security industry events in Canada - held at the Toronto Congress Center on Oct 23-24 2013.</p>
+<p>The <strong><a title="360PREDATOR.com" href="http://360PREDATOR.com">PREDATOR</a></strong> Rugged Motorized Pan Tilt Zoom Camera range, designed and manufactured in UK by 360 Vision Technology, now comes in several different video formats including High-Resolution Analogue and IP with both SD and HD 1080P Megapixel resolution and is available in black, grey, white or custom colours.</p>
+<p><strong><a title="360PREDATOR.com" href="http://360PREDATOR.com">PREDATOR</a></strong> night vision options include IR (infrared) illumination with effective range of up to 125m (400ft)  which can also be combined with White Light and/or Thermal for effective performance in any lighting condition.</p>
+<p>HD PREDATOR features:</p>
+<ul>
+<li><strong>Built-in 360 Vision and ONVIF 2.2 profile S IP CODEC for virtual plug and play integration with most leading Video Management Software and Network Video Recorder platforms <br /></strong></li>
+</ul>
+<ul>
+<li><strong>Full HD 1080P (1920x1080) capable with up to 4 streams (H.264, MPEG4, MJPEG)</strong></li>
+</ul>
+<ul>
+<li><strong>30X Optical + 12X Digital Zoom </strong></li>
+</ul>
+<p> <a title="PREDATOR HD Specs" target="_blank" href="http://go.ipx360.com/360PREDATOR_HD"><img style="margin-right: 10px; float: left;" alt="PREDATOR HD Specs Sheet" src="//cdn.shopify.com/s/files/1/0000/4610/files/360PREDHD_badge_small.png?337" /></a><a title="PREDATOR HD Specs" target="_blank" href="http://go.ipx360.com/360PREDATOR_HD"><small>Download HD PREDATOR Specs Sheet</small></a></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/blogs/news/8906681-ipx360-solutions-celebrates-second-anniversary</id>
+    <published>2013-09-03T00:00:00-04:00</published>
+    <updated>2013-09-03T07:59:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/blogs/news/8906681-ipx360-solutions-celebrates-second-anniversary"/>
+    <title>IPX360 Solutions Celebrates Second Anniversary</title>
+    <author>
+      <name>Regis Glorieux</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p><strong><img style="margin-right: 10px; float: left;" src="//cdn.shopify.com/s/files/1/0000/4610/files/ipx360_badge_400x400_predator_thumb.jpg?322" alt="IPX360 Solutions" />IPX360 Solutions Inc, a Canadian based company specialized in B2B product solutions for audio-visual, electronic security and asset tracking applications to distributors and channel partners in Canada, United States and selected countries in Latin America is celebrating its second anniversary.</strong></p>
+<p>We strongly believe our relationships have fueled our success over the course of our first 24 months in operation and would like to take this opportunity to thank all those who have and continue to contribute to our success.</p>
+<p>With a sales up over 300% over previous year and some exciting new initiatives ready to launch, IPX360 Solutions is looking forward to an exciting times ahead.</p>
+<p>To our loyal clients and sales channel partners, our dedicated team members, our hard working manufacturers and suppliers, many thanks you for your support.</p>
+<p>Sincerely,</p>
+<p>The IPX360 Solutions Team</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/blogs/news/8338185-checkmycctv-limited-time-free-trial-offer</id>
+    <published>2013-07-23T10:34:50-04:00</published>
+    <updated>2013-07-23T10:34:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/blogs/news/8338185-checkmycctv-limited-time-free-trial-offer"/>
+    <title>CheckMyCCTV Limited Time FREE TRIAL Offer</title>
+    <author>
+      <name>Regis Glorieux</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p><img style="display: block; margin-left: auto; margin-right: auto;" alt="" src="//cdn.shopify.com/s/files/1/0000/4610/files/CheckMyCCTV_slanted_noborder_medium.jpg?293" /></p>
+<p>For a limited time, IPX360 Solutions and CheckMySystems are offering a <b>Fully Functional, No Charge, No Hassle, No Obligation 60-Day Trial</b> to evaluate <b>CheckMyCCTV</b> with your own system. If you prefer, you don't need to install any software on premises.</p>
+<p>To get started, simply visit <a title="Visit http://www.ipx360solutions.com/products/checkmycctv-trial to start your free CheckMyCCTV free trial" href="http://www.ipx360solutions.com/products/checkmycctv-trial">http://www.ipx360solutions.com/products/checkmycctv-trial</a>, select your brand of system in the list and fill out the order form. You will be contacted by one of our team members with instructions and assistance on getting started.</p>
+<p><span class="legal"><em>Note: Limited time offer available to qualified customers with primary business address located in Canada or United States. Certain restrictions apply. Offer may end at any time without notice</em></span></p>
+<p><span class="legal"></span></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/blogs/news/7969031-updated-360-predator-and-ptz-solutions-specs-short-form-guides</id>
+    <published>2013-05-26T11:13:11-04:00</published>
+    <updated>2013-05-26T11:19:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/blogs/news/7969031-updated-360-predator-and-ptz-solutions-specs-short-form-guides"/>
+    <title>Updated 360 PREDATOR and PTZ Solutions Specs Short Form Guides</title>
+    <author>
+      <name>Regis Glorieux</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p><img style="float: left;" alt="" src="//cdn.shopify.com/s/files/1/0000/4610/files/360_CanUS_PREDbrochure_badge_compact.png?234" />Newly updated specs short form guides for PREDATOR and other 360 Vision PTZ Solutions products are now available.</p>
+<p>Download here:</p>
+<p><a href="http://go.ipx360.com/360PREDATORshortform" target="_blank">http://go.ipx360.com/360PREDATORshortform</a></p>
+<p><a href="http://go.ipx360.com/360PTZshortform" target="_blank">http://go.ipx360.com/360PTZshortform</a></p>
+<p>&nbsp;</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/blogs/news/7613175-enewsletter-latest-news-from-ipx360solutions-com-hd-predator-checkmycctv-ipx360tracking-roemtech-more</id>
+    <published>2013-04-02T08:20:58-04:00</published>
+    <updated>2013-04-02T08:26:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/blogs/news/7613175-enewsletter-latest-news-from-ipx360solutions-com-hd-predator-checkmycctv-ipx360tracking-roemtech-more"/>
+    <title>[eNewsletter] Latest News from IPX360solutions.com - HD PREDATOR, CheckMyCCTV, IPX360tracking, Roemtech &amp; more</title>
+    <author>
+      <name>Regis Glorieux</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Featuring news on the new HD PREDATOR, by 360 Vision, CheckMyCCTV, IPX360tracking and Roemtech</p>
+<p><iframe src="http://us4.campaign-archive2.com/?u=8e4e476fdd4f43ca4e4ae2c58&amp;id=705d4fb65b" width="80%" height="2250px"></iframe></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/blogs/news/7413776-what-colour-would-you-like-your-predator-rugged-ptz-camera</id>
+    <published>2013-02-27T00:00:00-05:00</published>
+    <updated>2013-03-31T10:43:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/blogs/news/7413776-what-colour-would-you-like-your-predator-rugged-ptz-camera"/>
+    <title>What colour would you like your PREDATOR Rugged PTZ camera?</title>
+    <author>
+      <name>Regis Glorieux</name>
+    </author>
+    <content type="html">
+      <![CDATA[<h3><img style="margin-right: 10px; float: left;" src="http://cdn.shopify.com/s/files/1/0000/4610/files/PRED_AnyColour.jpg?103" alt="Any color you like" /> Tired of plain old Black or White?</h3>
+<p>360 Vision <strong><a title="360PREDATOR.com" href="http://www.360predator.com">PREDATOR</a></strong> Rugged Motorized PTZ cameras are available as standard in Black, White and Cool Grey finishes and can also be ordered in a wide variety of colours, at minimal charge.... and NO minimum order quantity!!</p>
+<p>Have a special colour requirement? <strong><a title="Contact IPX360 Solutions" href="http://www.ipx360solutions.com/pages/contact-us">Let us know</a></strong>, we'll get back to you quickly with an answer and expected lead time.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><em>Vous &ecirc;tes un peu blas&eacute;s du noir ou blanc?</em></p>
+<p><em>La camera PREDATOR de 360 Vision est disponible en s&eacute;rie avec fini noir, blanc ou gris et est &eacute;galement offerte dans une vari&eacute;t&eacute; d'autres couleurs, a peu de de frais suppl&eacute;mentaires et sans quantit&eacute;s minimum.</em></p>
+<p><em>Pour en savoir plus, <a title="Contact IPX360 Solutions" href="http://www.ipx360solutions.com/pages/contact-us">contactez nous</a></em></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/blogs/news/7399560-updated-2013-360-predator-shortform-specs-catalog</id>
+    <published>2013-02-25T09:21:40-05:00</published>
+    <updated>2013-02-25T09:51:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/blogs/news/7399560-updated-2013-360-predator-shortform-specs-catalog"/>
+    <title>Updated 2013 360 PREDATOR shortform specs catalog</title>
+    <author>
+      <name>Regis Glorieux</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p><img style="margin-right: 10px; float: left;" src="//cdn.shopify.com/s/files/1/0000/4610/files/360_CanUS_PREDbrochure_badge_small.png?101" alt="" /></p>
+<p>We've updated our 360 PREDATOR shortform specs catalog, adding information on upcoming HD Rugged IP PREDATOR PTZ Cameras.</p>
+<p>Download at <span class="larger"><a href="http://go.ipx360.com/360PREDATORshortform" target="_blank">http://go.ipx360.com/360PREDATORshortform</a> <em>(pdf)</em><br /></span></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/blogs/news/7153026-enewsletter-latest-news-from-ipx360solutions-com-predator-checkmycctv-ipx360tracking-and-more</id>
+    <published>2013-01-11T10:14:12-05:00</published>
+    <updated>2013-01-11T10:17:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/blogs/news/7153026-enewsletter-latest-news-from-ipx360solutions-com-predator-checkmycctv-ipx360tracking-and-more"/>
+    <title>[eNewsletter] Latest News from IPX360solutions.com  - PREDATOR, CheckMyCCTV, IPX360tracking and more</title>
+    <author>
+      <name>Regis Glorieux</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Inside: Best Wishes for 2013; 360 PREDATOR in the News; Are All Your CCTV Systems Working Right Now?; IPX360 Global Asset Tracking and more<p><a class="read-more" href="https://www.ipx360solutions.com/blogs/news/7153026-enewsletter-latest-news-from-ipx360solutions-com-predator-checkmycctv-ipx360tracking-and-more">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p>&nbsp;Inside: Best Wishes for 2013; 360 PREDATOR in the News; Are All Your CCTV Systems Working Right Now?; IPX360 Global Asset Tracking and more</p>
+<p><iframe src="http://t.co/1nNNr2CL" width="80%" height="2250px"></iframe></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/blogs/news/6873559-ipx360-solutions-joins-bicsi</id>
+    <published>2012-11-13T10:34:06-05:00</published>
+    <updated>2012-11-13T10:34:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/blogs/news/6873559-ipx360-solutions-joins-bicsi"/>
+    <title>IPX360 Solutions Joins BICSI</title>
+    <author>
+      <name>Regis Glorieux</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p style="text-align: left;"><img style="float: left; margin-right: 15px;" alt="" src="//cdn.shopify.com/s/files/1/0000/4610/files/BICSI_corporateMember_small.gif?35" />We are pleased to announce that <a href="http://www.ipx360solutions.com"><b>IPX360 Solutions</b></a> has joined <b><a title="BICSI" href="http://www.bicsi.org" target="_blank">BICSI</a></b> as a Corporate Member. </p>
+<p><b><a title="BICSI" href="http://www.bicsi.org" target="_blank">BICSI</a></b> is a professional association supporting the Information Transport Systems (ITS) industry with information, education and 
+knowledge assessment for individuals and companies, serving more 
+than 24,000 ITS professionals, including designers, installers and 
+technicians since 1977. </p>
+<p><a href="http://www.ipx360solutions.com"><b>IPX360 Solutions</b></a> is a leading B2B supplier of product and solutions for audio-visual, electronic security and asset tracking applications.</p>
+]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/blogs/news/6795320-tech-notice-scheduled-ipx360-tracking-site-maintenance-nov-3-4-possible-service-interruptions</id>
+    <published>2012-11-02T08:23:24-04:00</published>
+    <updated>2012-11-02T08:23:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/blogs/news/6795320-tech-notice-scheduled-ipx360-tracking-site-maintenance-nov-3-4-possible-service-interruptions"/>
+    <title>Tech Notice: Scheduled IPX360 Tracking Site Maintenance Nov 3-4. Possible Service Interruptions</title>
+    <author>
+      <name>Regis Glorieux</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p><b><span></span></b><span>Server maintenance </span><span>is scheduled </span><span>on Saturday 11/03/12 from 10:01 pm EDT to 5:00 am E</span><span>S</span><span>T
+ Sunday 11/04/12. During this window, there will be possible service interruptions for 90 minutes or longer. Customers running scheduled reports during this period may want to generate those 
+earlier that evening. &nbsp;At the conclusion of the change and where 
+supported, buffered device data should become accessible in via your account.</span></p>
+<p><span></span></p>
+<p><span>We apologize for any possible inconvenience</span></p>
+<p><span><b>IPX360 Solutions Support Team</b><br />
+http://livesupport.ipx360solutions.com/
+</span></p>
+]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/blogs/news/6795290-checkmycctv-video-surveillance-system-health-and-operation-monitoring-software-to-be-offered-by-ipx360-solutions-inc</id>
+    <published>2012-10-27T18:05:22-04:00</published>
+    <updated>2012-10-27T18:05:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/blogs/news/6795290-checkmycctv-video-surveillance-system-health-and-operation-monitoring-software-to-be-offered-by-ipx360-solutions-inc"/>
+    <title>CheckMyCCTV Video Surveillance System Health and Operation Monitoring Software to be Offered by IPX360 Solutions Inc</title>
+    <author>
+      <name>Regis Glorieux</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>&nbsp;<b>FOR IMMEDIATE RELEASE<br />
+<br />
+</b></p>
+<div style="text-align: center;"><b>IPX360 Solutions Inc Signs-up as Agent for CheckMySystems Ltd in North American Market</b><br />
+<br />
+<b>CheckMyCCTV Video Surveillance System Health and Operation Monitoring Software <br />
+to be Offered by IPX360 Solutions Inc</b><br />
+</div>
+<br />
+<i><b style="text-align: left;"><img style="float: left; margin-right: 20px;" alt="" src="//cdn.shopify.com/s/files/1/0000/4610/files/CheckMyCCTV_lowres_medium.jpg?2" />Montreal, Canada - October 25, 2012</b></i>
+ - B2B electronic security product provider, IPX360 Solutions Inc. has 
+signed an agreement with UK-based CheckMySystems Ltd. - the video 
+surveillance health and operation monitoring software specialist - to 
+act as its agent for 'CheckMyCCTV' in the North American market.<br />
+<br />The CheckMyCCTV application, to be offered by IPX360 Solutions Inc. 
+across the US and Canada, is designed to automatically identify and 
+report specific video surveillance system faults as soon as they are 
+detected. Typical issues that can be flagged-up by CheckMyCCTV include: 
+camera failures, hard disk failures, recording issues, time accuracy 
+problems, and network connection failures. Early detection helps to 
+ensure that problems are resolved before they can impact, negatively, on
+ system performance.<br />
+<br />Following the deal announced today with CheckMySystems Ltd., IPX360 
+Solutions Inc. is planning to preview CheckMyCCTV's advanced 
+capabilities in a series of one-to-one meetings with security 
+distributors and monitoring station representatives at the Security 
+Canada Expo taking place this week in Toronto, Canada. The 'soft launch'
+ of CheckMyCCTV is to be followed by the 'official' North American 
+unveiling of the video surveillance health check software on IPX360 
+Solution's booth (219) during the forthcoming SecureTech event (Ottawa -
+ October 30, 31).<br />
+<br />Moving ahead, IPX360 Solutions sees tremendous potential in 
+targeting CheckMyCCTV at security distributors and owners of large-scale
+ and multiple sites. Central stations are another focus, where interest 
+has already been expressed in CheckMyCCTV by providers, given its 
+capacity to enhance the efficiency of their operations and, crucially, 
+the system status information that can be provided to customers.<br />
+<br />Regis Glorieux, President of IPX360 Solutions Inc.,explains what 
+attracted him to the CheckMyCCTV solution: "In my view there is a real 
+need for a new approach to checking on video surveillance systems in the
+ US and Canada. When working with, and for distributors, I regularly 
+came across recorders that were simply not working and may have been out
+ of action for weeks or even longer. I am certainly not alone in this. 
+Often the first time the customer realised anything was amiss was when 
+there was an incident and they couldn't retrieve the video.<br />
+<br />"With CheckMyCCTV in place these problems are picked-up 
+automatically, and highlighted by an on-screen warning at a monitoring 
+station or even via a smart phone 'app', so no one needs to be left in 
+the dark. Another factor which is very appealing, and differentiates 
+CheckMyCCTV from less capable solutions, is the ability of the software 
+to work with multiple video surveillance system brands. Traditionally, 
+such solutions have tended to be very much manufacturer specific. This 
+isn't very practical for customers who want to avoid the headache of 
+trying to run four or five pieces of software simultaneously. Now with 
+CheckMyCCTV they can access a single, convenient interface for all 
+important status checking."<br />
+<br />Commented Darren Rewston, Founder and Managing Director of 
+CheckMySystems Ltd: "We are very excited to be working with IPX360 
+Solutions Inc. in our efforts to bring CheckMyCCTV to a new audience in 
+North America. The experience we have had to date in the UK, working 
+with monitoring stations, large retailers and other users, shows that 
+CheckMyCCTV can make a positive difference to fault finding and how the 
+maintenance of video surveillance systems is managed. We expect that 
+customers in the US and Canada will soon appreciate these practical 
+benefits for themselves.<br />
+<br />"At CheckMySystems we realise that there can be no room for 
+complacency where the well being of video surveillance systems is 
+concerned. The need to implement effective checks was underlined in a 
+snapshot survey we conducted of 300 sites across the UK. Before 
+CheckMyCCTV was implemented a worrying 75% of sites had one or more 
+issues affecting the operational performance of the CCTV system, ranging
+ from daylight saving time not being updated, to camera failures, 
+recording problems, and hard disk issues."<br />
+<br />CheckMyCCTV is currently compatible with over 25 video surveillance 
+system brands and OEMs, including: Samsung, Costar, HikVision, American 
+Dynamics, Digimerge, Dedicated Micros, Xtralis, and Dahua, with more 
+being added to this list all the time.<br />
+<br />For additional information on IPX360 Solutions Inc. and the 
+CheckMyCCTV video surveillance health and operation monitoring software 
+please visit booth 219 during SecureTech in Ottawa, call <a href="tel:866-790-4777" value="+18667904777" target="_blank">866-790-4777</a> or visit: <a href="http://www.ipx360solutions.com" target="_blank">www.ipx360solutions.com</a>.<br />
+<br />
+More details on CheckMySystems Ltd can be found at: <a href="http://www.checkmysystems.com" target="_blank">www.checkmysystems.com</a>.<br />
+<br />
+<div><b>###</b><br />
+</div>
+<b><br />
+For media enquiries please contact:<br />
+Tim Compston<br />
+Compston PR<br />
+Ph: <a href="tel:%2B44%280%291383%20665%20060" value="+441383665060" target="_blank">+44(0)1383 665 060</a><br />
+Email: <a href="mailto:compstonpr@gmail.com" target="_blank">compstonpr@gmail.com</a></b>
+]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/blogs/news/6700620-see-the-predator-in-action-securetech-2012-in-ottawa-booth-219</id>
+    <published>2012-10-11T12:59:46-04:00</published>
+    <updated>2012-10-11T13:01:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/blogs/news/6700620-see-the-predator-in-action-securetech-2012-in-ottawa-booth-219"/>
+    <title>See the PREDATOR in action @ SecureTech 2012 in Ottawa (booth 219)</title>
+    <author>
+      <name>Regis Glorieux</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Please visit us at SecureTech Show being held at the Ottawa Convention Centre on Oct 30-31 (booth 219)<br />
+</p>
+<p> <a href="http://www.ipx360solutions.com" target="_blank">IPX360 Solutions</a> will be presenting the wide range of advanced Night Vision CCTV and IP Video products and solutions from UK-based manufacturer 360 Vision Technology. Featured will be the popular <span>Predator Thermal &amp; White Light PTZ camera solutions! </span><br />
+</p>
+<p>Download your free Exhibits access pass: <a href="http://go.ipx360.com/SecurTech2012invite" target="_blank">http://go.ipx360.com/SecurTech2012invite</a></p>
+<p><a href="http://www.360visiontechnology.com" target="_blank">360 Vision Technology</a> are the leading UK Designers and Manufacturer of 
+high quality PTZ Dome, Ruggedised PTZ Cameras, Thermal Cameras and CCTV 
+Matrix Systems.</p>
+<p><a href="http://www.ipx360solutions.com" target="_blank">IPX360 Solutions Inc</a> is a Canadian based company specializing in sales, logistics and support services for select manufacturers of leading edge products and solutions for audio-visual and electronic security and asset tracking markets.
+</p>
+]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/blogs/news/6633350-360-predator-at-canasa-security-canada-expo-in-toronto-booth-134</id>
+    <published>2012-09-26T10:25:32-04:00</published>
+    <updated>2012-09-26T10:27:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/blogs/news/6633350-360-predator-at-canasa-security-canada-expo-in-toronto-booth-134"/>
+    <title>360 PREDATOR at CANASA/Security Canada Expo in Toronto (booth 134)</title>
+    <author>
+      <name>Regis Glorieux</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p style="text-align: left;"><img style="float: left; margin-right: 10px;" alt="" src="//cdn.shopify.com/s/files/1/0000/4610/products/predator_trio10_compact.jpg?101468" />360 Vision Technology and IPX360 Solutions will be displaying a full range of PREDATOR cameras in our partner <a href="http://www.gpmarketingcanada.com">GP Marketing Canada</a>'s (booth 134) at the upcoming CANASA/Security Canada Expo which is being held on October 24-25, 2012 at the Toronto Congress Center.</p>
+<p>
+</p>
+<p>Come see the PREDATOR with Dual IR and White Light, PREDATOR THERMAL, the all new Intelli PREDATOR with Intelligent Auto-Tracking. Get a glimpse of the new ECLIPSE series of static Thermal cameras and the upcoming 360 NAS Rapid Deployment Camera solutions.&nbsp;</p>
+<p>CANASA/Security Canada Expo is the largest security industry trade show in Canada. For more information on the show and to register, visit <a href="http://www.securitycanadaexpo.com/en/attendees/central/index.html" target="_blank"> http://www.securitycanadaexpo.com/en/attendees/central/index.html</a><br />
+</p>
+]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/blogs/news/6449600-new-predator-and-360-vision-sales-tech-brochures-available-for-download</id>
+    <published>2012-08-19T19:05:49-04:00</published>
+    <updated>2012-08-19T19:10:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/blogs/news/6449600-new-predator-and-360-vision-sales-tech-brochures-available-for-download"/>
+    <title>New PREDATOR and 360 Vision sales &amp; tech brochures available for download</title>
+    <author>
+      <name>Regis Glorieux</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>The following brochures are available to download in PDF format:</p>
+<ul>
+  <li><a href="http://go.ipx360.com/360VisionBrochure" target="_blank">360 Vision Products Sales Brochure </a><br />
+  </li>
+</ul>
+<p><a href="http://go.ipx360.com/360VisionBrochure" target="_blank"><img src="//cdn.shopify.com/s/files/1/0000/4610/files/360_salesbrochure_p1.png?101464" /></a> <a href="http://go.ipx360.com/360VisionBrochure" target="_blank"><img src="//cdn.shopify.com/s/files/1/0000/4610/files/360_salesbrochure_p2.png?101464" /></a></p>
+<ul>
+  <li><a href="http://go.ipx360.com/360PREDATORshortform" target="_blank">360 PREDATOR Specs Sheets Shortform</a><br />
+  </li>
+</ul>
+<p><a href="http://go.ipx360.com/360PREDATORshortform" target="_blank"><img src="//cdn.shopify.com/s/files/1/0000/4610/files/360_CanUS_PREDbrochure_badge.png?101464" /></a></p>
+<ul>
+  <li><a href="http://go.ipx360.com/360PTZshortform" target="_blank">360 PTZ &amp; CCTV Products Specs Sheets Shortform</a><br />
+  </li>
+</ul>
+<p><a href="http://go.ipx360.com/360PTZshortform" target="_blank"><img src="//cdn.shopify.com/s/files/1/0000/4610/files/360_CanUS_PTZbrochure_badge.png?101464" /></a><br />
+</p>
+]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/blogs/news/6385860-360-vision-technology-short-form-products-catalog</id>
+    <published>2012-08-06T11:39:47-04:00</published>
+    <updated>2012-08-06T11:39:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/blogs/news/6385860-360-vision-technology-short-form-products-catalog"/>
+    <title>360 Vision Technology Short Form Products Catalog</title>
+    <author>
+      <name>Regis Glorieux</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p><a href="http://go.ipx360.com/360_Vision_Shortform_2011_CanUS" target="_blank"><img src="//cdn.shopify.com/s/files/1/0000/4610/files/360_CanUS_brochure_badge.png?101420" /></a></p>
+<p><b><a href="http://go.ipx360.com/360_Vision_Shortform_2011_CanUS" target="_blank">Download</a></b> the new 360 Vision Technology 2011 Short Form Products Catalog for Canada/US featuring info and specs on the PREDATOR, Black Hawk, VisionDome and OpenVision IP VMS range of products.</p>
+<p><a href="http://go.ipx360.com/360_Vision_Shortform_2011_CanUS" target="_blank"><b>http://go.ipx360.com/</b><b>360_Vision_Shortform_2011_CanUS</b></a>
+</p>
+<p>For more literature, datasheets and other sales/support tools, check out our <b><a href="http://go.ipx360.com/downloads">Downloads</a></b> page <br />
+</p>
+<p><b><a href="http://go.ipx360.com/downloads">http://go.ipx360.com/downloads</a></b></p>
+]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/blogs/news/6203952-prevention-better-than-cure-benefits-of-using-360-predator-with-ir-and-white-light</id>
+    <published>2012-06-27T09:30:01-04:00</published>
+    <updated>2012-06-27T09:40:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/blogs/news/6203952-prevention-better-than-cure-benefits-of-using-360-predator-with-ir-and-white-light"/>
+    <title>Prevention better than cure: Benefits of using 360 PREDATOR with IR and White Light</title>
+    <author>
+      <name>Regis Glorieux</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p><i><small>source: <a href="http://mailer.silkmoth.com/t/ViewEmail/r/FB22DCE3AA396D78/4F1E13474CCB892B0367819F23434F99">360 Vision Technology Newsletter</a></small></i></p>
+<p>
+	<img style="float: left; margin: 5px;" alt="" src="//cdn.shopify.com/s/files/1/0000/4610/products/Predator_WL_1_compact.jpg?101100" /><span style="font-weight: normal;">The Patented Combined IR/White Light Technology on the <b><a style="font-weight: normal;" href="http://www.360predator.com">360 Vision “Predator” Rugged Camera</a></b><span style="font-weight: normal;"> range is widely recognized to be off a massive financial benefit in relation to its deterrent nature.</span></span></p>
+<p>
+Security
+ Managers have spent hours and hours trawling through pre-recorded video
+ footage after an incident has occurred trying to locate relevant small 
+sections to the respective incidents.</p>
+<p>However,
+ it is widely established that combined IR/White Light Technology deters
+ many breaches of security occurring in the first place, there by 
+eradicating the need for expensive, labour intensive post event video 
+searches.
+	</p>
+<p>An 
+aspect most prudent Senior Security Managers in Local Authorities, Blue 
+Chip Companies and Public Utilities readily recognize the benefit, 
+especially during the current tough economic climate.
+	</p>
+<p>
+Find more info on the complete range of <b><a href="http://www.360predator.com">360 PREDATOR</a></b> Rugged PTZ products, including IP, IR, White Light and Thermal options at <b><a href="http://www.360predator.com">360PREDATOR.com
+</a></b></p>
+]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/blogs/news/6118814-ipx360-solutions-june-2012-newsletter-released</id>
+    <published>2012-06-04T10:56:34-04:00</published>
+    <updated>2012-06-04T11:03:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/blogs/news/6118814-ipx360-solutions-june-2012-newsletter-released"/>
+    <title>IPX360 Solutions June 2012 Newsletter released</title>
+    <author>
+      <name>Regis Glorieux</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p style="text-align: left;"><a href="http://eepurl.com/mpHqv"><img style="float: left; margin-right: 5px;" alt="" src="//cdn.shopify.com/s/files/1/0000/4610/files/ipxnews_thumb_small.png?101003" /></a>Read up on news and tips from our partners at 360 Vision and Roemtech as well as info on the upcoming Security Canada West show. You can check it out <a href="http://eepurl.com/mpHqv"><b>here</b></a><span></span></p>
+<p>Want to stay up to date? Make sure to <a href="http://www.ipx360solutions.com/pages/subscribe"><b>sign up</b></a> to receive future issues by email. You can also follow us on <a href="https://twitter.com/#%21/ipx360solutions">twitter</a> (<a href="https://twitter.com/#%21/ipx360solutions"><b>@ipx360solutions</b></a>) and like us on <a href="https://www.facebook.com/pages/IPX360-Solutions-Inc/152246588196803"><b>facebook</b></a><br />
+</p>
+]]>
+    </content>
+  </entry>
+</feed>

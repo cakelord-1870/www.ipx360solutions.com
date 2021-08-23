@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.ipx360solutions.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.ipx360solutions.com/collections/site-and-perimeter-protection-solutions.atom"/>
+  <title>IPX360 Solutions Inc</title>
+  <updated>2021-01-17T09:36:31-05:00</updated>
+  <author>
+    <name>IPX360 Solutions Inc</name>
+  </author>
+  <entry>
+    <id>https://www.ipx360solutions.com/products/628034175011</id>
+    <published>2021-01-17T09:36:31-05:00</published>
+    <updated>2021-01-17T09:36:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/products/sc-360-perimeter-surveillance-radar"/>
+    <title>SC-360 Perimeter Surveillance Radar</title>
+    <s:type></s:type>
+    <s:vendor>IPX360 Solutions Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0000/4610/products/SC-360.png?v=1527171791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IPX360 Solutions Inc<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The SC-360 is a low-cost radar-based solution for wide area perimeter protection and intruder detection. With its 200m target detection range, a single SC-360 will protect an area of over 125,000 square meters, automatically slewing a PTZ camera to focus on the intruder and triggering an alarm.</p>
+<p>The SC-360 perimeter surveillance radar incorporates innovative and advanced signal processing technology that allows the unit to learn about the environment it operates in and be programmed during the initial installation via laptop, to establish privacy zones.</p>
+<ul>
+<li>Increases CCTV effectiveness by automatically detecting people and vehicles out to 200m range</li>
+<li>Alarms on intrusion</li>
+<li>Programmable surveillance areas up to 360 degrees</li>
+<li>All weather capability</li>
+<li>Low cost</li>
+<li>Automatically slews and zooms the camera to the target</li>
+<li>Compact design</li>
+<li>Easy to install and set up</li>
+<li>Flexible installation options</li>
+<li>Configuration using web browser interface over IP network</li>
+<li>ONVIF camera interface</li>
+<li>IP interface and VMS integration</li>
+</ul>
+<hr></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.ipx360solutions.com/products/628034175011</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>SC-360</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/products/627252690979</id>
+    <published>2021-01-17T09:36:31-05:00</published>
+    <updated>2021-01-17T09:36:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/products/scan-sector-narrow-beam-static-radar-detector"/>
+    <title>SCAN-SECTOR Narrow Beam Static Radar  Detector</title>
+    <s:type></s:type>
+    <s:vendor>IPX360 Solutions Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0000/4610/products/sector-on-wall.jpg?v=1527083488"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IPX360 Solutions Inc<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Scan-Sector utilizes the same advanced technology as the SC360 used in the PREDATOR-Radar but offers a lower-cost solution in cases where 360° coverage isn't required. Ideal for protecting long corridors (e.g. between buildings) or for monitoring of a driveway or road.</p>
+<ul>
+<li>Low cost, simple and quick installation and configuration</li>
+<li>Alarms on intrusion</li>
+<li>Up to 200m range</li>
+<li>Can be high-mounted to avoid vandalism</li>
+<li>Sophisticated beam shape minimises any 'creep zone' underneath the unit</li>
+<li>All weather capability</li>
+<li>Compact design</li>
+<li>IP compatible solution with POE (Power Over Ethernet)</li>
+<li>Advanced DSP signal processing for best target detection and minimal false alarms</li>
+<li>24GHz operating frequency for improved detection probability and immunity to jamming</li>
+<li>Configurable maximum detection range</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.ipx360solutions.com/products/627252690979</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/products/14227701777</id>
+    <published>2021-01-14T09:09:40-05:00</published>
+    <updated>2021-01-14T09:09:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/products/360-predator-radar-auto-tracking-ptz-camera"/>
+    <title>360 PREDATOR RADAR Auto-Tracking PTZ Camera</title>
+    <s:type>Camera</s:type>
+    <s:vendor>360 Vision Technology</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0000/4610/products/360PRED-Radar_promo.JPG?v=1527081892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>360 Vision Technology<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PREDATOR RADAR is a complete, radar controlled, 360 degree, auto tracking, target following ‘all-in-one’ PTZ camera system with the power to automatically detect and continually monitor targets – to provide a powerful and comprehensive security surveillance solution.</p>
+<p>Designed for high-security applications where the fast detection of objects or individuals is vital, such as within perimeter protection fence lines, sterile zones, prisons, borders, airports and military sites, the PREDATOR RADAR stand-alone system provides an intelligent early warning detection and automatic surveillance system in an integrated product. It is designed for applications where wide area detection and automatic tracking of moving objects is required.</p>
+<ul>
+<li>Increases CCTV effectiveness by automatically detecting people and vehicles out to 200m range in all directions (400m diameter or 125,000 square meter area)</li>
+<li>Alarm output facility allows notification to operator via Central Station and/or Video Management Software integration</li>
+<li>Programmable surveillance areas up to 360 degrees</li>
+<li>Works in all weather conditions – rain, fog, snow, mist as well as extreme hot and cold climates</li>
+<li>Automatically slews and zooms the camera to the target</li>
+<li>Integrated design with no blind spots, full 360 degree coverage</li>
+<li>Easy to install and set up</li>
+<li>Ethernet/IP connectivity</li>
+<li>Configured using web browser</li>
+<li>Designed and manufactured in UK</li>
+</ul>
+<hr></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.ipx360solutions.com/products/14227701777</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

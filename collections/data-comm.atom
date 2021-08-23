@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.ipx360solutions.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.ipx360solutions.com/collections/data-comm.atom"/>
+  <title>IPX360 Solutions Inc</title>
+  <updated>2021-08-01T21:53:24-04:00</updated>
+  <author>
+    <name>IPX360 Solutions Inc</name>
+  </author>
+  <entry>
+    <id>https://www.ipx360solutions.com/products/6587972976740</id>
+    <published>2021-08-01T21:53:24-04:00</published>
+    <updated>2021-08-01T21:53:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/products/connect2mydevice"/>
+    <title>Connect2myDevice Secure Gateway (Available Soon)</title>
+    <s:type>Network Switches</s:type>
+    <s:vendor>CheckMySystems</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0000/4610/products/connect2mydevice_1.png?v=1627910031"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CheckMySystems<br>
+        <strong>Type: </strong>Network Switches<br>
+        <strong>Price: </strong>
+            89.00 - 259.00
+            <a href="https://www.ipx360solutions.com/products/connect2mydevice">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Simple</strong>, <strong>Secure</strong>, <strong>Cost Effective</strong> <strong>Connectivity</strong> to your customers’ CCTV and Security system for proactive maintenance checking, support or diagnostic purposes - <strong><em>with no onsite setup!</em> </strong><br></p>
+<p><strong>SIMPLE</strong><br> • Plug-and-Play, with no configuration required on site.</p>
+<p><strong>SECURE</strong> <br> • No ports to open on site. <br> • SSL connectivity. <br> • IP Address whitelisting and blocking.</p>
+<p><strong>COST EFFECTIVE</strong> <br> • Uses existing network connections. <br> • A low-cost hardware solution with Pay-As-You-Go monthly subscription plans. <br> • Added savings when bundled with <a href="https://www.ipx360solutions.com/checkmycctv" title="CheckMyCCTV by IPX360 Solutions">CheckMyCCTV™ System Status and Operation Monitoring services</a>.</p>
+<p> </p>
+<ul>
+<li>
+<strong>Connect2MyDevice Registration</strong><em>(coming soon)</em><strong></strong>
+</li>
+<li>
+<strong>Connect2MyDevice FAQ page </strong><em>(coming soon)</em>
+</li>
+</ul>
+<div style="text-align: center;"><a title="Book a Demo" href="https://www.ipx360solutions.com/bookademo"><img style="float: none; display: block; margin-left: auto; margin-right: auto;" alt="Book A Demo" src="https://cdn.shopify.com/s/files/1/0000/4610/files/bookademo_240x55a_100x100.png?v=1579277288"></a></div>
+<div style="text-align: center;"><span class="st"></span></div>
+<p> </p>
+<p style="text-align: center;"><em>Available Fall '21</em></p>
+<p><img alt="powered by CheckMySystems" src="https://cdn.shopify.com/s/files/1/0000/4610/files/powered_by_CheckMySystems_160x160.png?v=1628079885" style="float: right;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.ipx360solutions.com/products/6587972976740</id>
+      <title>Connect2MyDevice Gateway + Service Bundle (12 months)</title>
+      <s:price currency="USD">259.00</s:price>
+      <s:sku>C2MD-GW-12M</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.ipx360solutions.com/products/6587972976740</id>
+      <title>Connect2MyDevice Gateway (Add-On Service Plan Required)  )</title>
+      <s:price currency="USD">89.00</s:price>
+      <s:sku>C2MD-GW-NS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/products/6544268722276</id>
+    <published>2021-03-22T08:53:45-04:00</published>
+    <updated>2021-03-22T08:53:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/products/br1-mini-lte-4g-cellular-modem-with-wifi-and-gps"/>
+    <title>BR1-MINI-LTE 4G Cellular Modem with WiFi and GPS</title>
+    <s:type></s:type>
+    <s:vendor>IPX360 Solutions Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0000/4610/products/br1-mini-lte.png?v=1616417522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IPX360 Solutions Inc<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            359.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The BR1-Mini LTE cellular modem offers a small form factor — without sacrificing durability and reliability. Features:<br></p>
+<p>Wide temperature range (-40° to +149°F / -40° to +65°C) and can be deployed in even the harshest environments.</p>
+<p>Certified for vibration resistance and rolling stock (E Mark, EN 61373, EN 50155, EN 61000).</p>
+<p>Multiple power inputs and a wide voltage range: DC Jack/Terminal Block: 12V – 28V DC; Passive PoE Input <br></p>
+<p>Includes 2 redundant SIM slots, DC or terminal block power, remote management via InControl2 and GPS tracking.</p>
+<p><em><strong>Note: This items is available for sale to customers in Canada only <br></strong></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.ipx360solutions.com/products/6544268722276</id>
+      <title>Default Title</title>
+      <s:price currency="USD">359.00</s:price>
+      <s:sku>PEP-BR1_MINI-LTE</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/products/4829669032036</id>
+    <published>2021-01-17T09:41:15-05:00</published>
+    <updated>2021-01-17T09:41:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/products/ipk-400-ip-ptz-camera-control-keyboard"/>
+    <title>IPK-400 IP PTZ Camera Control Keyboard</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>IPX360 Solutions Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0000/4610/products/IPK-400_KBD.jpg?v=1599843506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IPX360 Solutions Inc<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            449.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span class="a-list-item" data-mce-fragment="1">The IPK-400 IP PTZ Camera Control Keyboard is designed for quick control of <a href="https://www.ipx360solutions.com/predatorcctv" title="360 Predator PTZ Cameras">PREDATOR</a>, <a href="https://www.ipx360solutions.com/collections/frontpage/products/360-invictus-poe-rugged-hd-ptz-camera" title="360 Invictus Rugged PTZ Camera">INVICTUS</a> and selected other PTZ speed dome cameras connected on same LAN. <em>No DVR, computer or mouse required!</em><br></span></p>
+<ul>
+<li><span class="a-list-item" data-mce-fragment="1">Built-in 7" LCD Screen with switchable single- and multi-camera display (supports up to 4 simultaneous 4 HD camera feeds).</span></li>
+<li><span class="a-list-item" data-mce-fragment="1">HDMI output.</span></li>
+<li><span class="a-list-item" data-mce-fragment="1">4-Axis Pan/Tilt/Zoom Joystick controls Pan, Tilt Speed, Iris and Focus + Preset/Tour keys </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.ipx360solutions.com/products/4829669032036</id>
+      <title>IPK-400 IP PTZ Camera Control Keyboard</title>
+      <s:price currency="USD">449.00</s:price>
+      <s:sku>IPK-400</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/products/4854119956580</id>
+    <published>2021-01-17T09:40:07-05:00</published>
+    <updated>2021-01-17T09:40:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/products/poe90u1bt-90w-single-port-poe-injector"/>
+    <title>POE90U1BT 90W Single Port PoE Injector</title>
+    <s:type>Network Switches</s:type>
+    <s:vendor>IPX360 Solutions Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0000/4610/products/POE90U-1BT6-R.jpg?v=1602860819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IPX360 Solutions Inc<br>
+        <strong>Type: </strong>Network Switches<br>
+        <strong>Price: </strong>
+            129.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>90W Single Port Power over Ethernet Midspan IEEE802.3BT Compliant Power Injector</h3>
+<ul>
+<li>IEEE802.3BT Compliant</li>
+<li>4 Pair Powering +3,6,4,5 / - 1,2,7,8</li>
+<li>Diagnostic LEDs</li>
+<li>Full Protection OCP, OVP</li>
+<li>Broken Wire Detection</li>
+<li>Gigabit Compatible</li>
+</ul>
+<p><span class="a-list-item" data-mce-fragment="1"></span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.ipx360solutions.com/products/4854119956580</id>
+      <title>Default Title</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>POE90U1BT</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/products/4513426931812</id>
+    <published>2021-01-14T09:16:59-05:00</published>
+    <updated>2021-01-14T09:16:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/products/dw-hdspotmod16-16-channel-spot-monitoring-module"/>
+    <title>DW-HDSPOTMOD16 16-channel Spot monitoring module (B-STOCK)</title>
+    <s:type></s:type>
+    <s:vendor>IPX360 Solutions Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0000/4610/products/DW-HDSPOTMOD16a.png?v=1585663064"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IPX360 Solutions Inc<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            329.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>*** B-stock/Open Box unit in new condition, used for internal testing purposes in our tech center. Fully tested and updated with latest available firmware ***</strong></p>
+<p>The DW-HDSPOTMOD16 16-channel Spot monitoring module lets you directly view up to 16 HD cameras at a time without connecting to them through a PC or server, automatically searching the network and identifying an unlimited number of ONVIF conformant IP cameras for local monitoring.</p>
+<p>Ideal for providing public views in retail and office  environments, as well as live monitoring stations for security personnel.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.ipx360solutions.com/products/4513426931812</id>
+      <title>Default Title</title>
+      <s:price currency="USD">329.00</s:price>
+      <s:sku>DW-HDSPOTMOD16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

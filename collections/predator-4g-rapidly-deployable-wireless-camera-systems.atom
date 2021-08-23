@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.ipx360solutions.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.ipx360solutions.com/collections/predator-4g-rapidly-deployable-wireless-camera-systems.atom"/>
+  <title>IPX360 Solutions Inc</title>
+  <updated>2021-03-22T08:53:45-04:00</updated>
+  <author>
+    <name>IPX360 Solutions Inc</name>
+  </author>
+  <entry>
+    <id>https://www.ipx360solutions.com/products/6544268722276</id>
+    <published>2021-03-22T08:53:45-04:00</published>
+    <updated>2021-03-22T08:53:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/products/br1-mini-lte-4g-cellular-modem-with-wifi-and-gps"/>
+    <title>BR1-MINI-LTE 4G Cellular Modem with WiFi and GPS</title>
+    <s:type></s:type>
+    <s:vendor>IPX360 Solutions Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0000/4610/products/br1-mini-lte.png?v=1616417522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IPX360 Solutions Inc<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            359.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The BR1-Mini LTE cellular modem offers a small form factor — without sacrificing durability and reliability. Features:<br></p>
+<p>Wide temperature range (-40° to +149°F / -40° to +65°C) and can be deployed in even the harshest environments.</p>
+<p>Certified for vibration resistance and rolling stock (E Mark, EN 61373, EN 50155, EN 61000).</p>
+<p>Multiple power inputs and a wide voltage range: DC Jack/Terminal Block: 12V – 28V DC; Passive PoE Input <br></p>
+<p>Includes 2 redundant SIM slots, DC or terminal block power, remote management via InControl2 and GPS tracking.</p>
+<p><em><strong>Note: This items is available for sale to customers in Canada only <br></strong></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.ipx360solutions.com/products/6544268722276</id>
+      <title>Default Title</title>
+      <s:price currency="USD">359.00</s:price>
+      <s:sku>PEP-BR1_MINI-LTE</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/products/4803822747748</id>
+    <published>2021-01-17T09:35:23-05:00</published>
+    <updated>2021-01-17T09:35:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/products/predator-tx-hd-heavy-duty-wireless-4g-lte-ptz-hd-camera-system"/>
+    <title>PREDATOR-TX HD Heavy Duty Wireless 4G/LTE PTZ HD Camera System</title>
+    <s:type>Camera</s:type>
+    <s:vendor>360 Vision Technology</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0000/4610/products/360PRED_4G.png?v=1593794134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>360 Vision Technology<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The <strong>PREDATOR-TX </strong><strong></strong>wireless 4G/LTE 'all-in-one' complete CCTV surveillance camera system <span class="background-details" data-mce-fragment="1">solution with edge recording capacity and wireless transmission, ideally suited for public safety, crowd management and unattended site or asset protection</span></p>
+<p>The <strong data-mce-fragment="1">PREDATOR-TX </strong><strong data-mce-fragment="1"></strong>provides a reliable wireless video transmission solution using highly efficient video compression with unique minimal latency for optimal performance in difficult wireless video transmission environments,</p>
+<p>Suitable for rapid, temporary or permanent deployment applications, the ultra-reliable<br>TX Range offers an integrated ‘Plug &amp; Play’ surveillance solution with easy setup. Simply insert any data SIM card (cellular version), add power and the device is ready to go, connecting the moment it is switched on.<br></p>
+<p>With complete control of bandwidth used, you can choose the resolution and frame rate to transmit, dependent on the bandwidth available. Switch dynamically between low and high bandwidth video streams, dependent on networks capability, adjusting video quality to suit.</p>
+<p>With the latest optimized video compression and unique, low latency transmission technology – which is fully encrypted and secure, users can be assured of dependable performance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>360 Vision Technology</s:tag>
+    <s:tag>CCTV</s:tag>
+    <s:tag>Predator</s:tag>
+    <s:tag>WCCTV</s:tag>
+    <s:tag>Wireless</s:tag>
+    <s:variant>
+      <id>https://www.ipx360solutions.com/products/4803822747748</id>
+      <title>360PREDATOR-TX</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku/>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/products/402697576</id>
+    <published>2020-07-03T13:00:03-04:00</published>
+    <updated>2020-07-03T13:00:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/products/4g-lte-broadband-services-for-predator-4g-and-wirelesscctv-mobile-surveillance-systems"/>
+    <title>LTE SIM Card and Wireless Broadband Plans for PREDATOR-4G or WirelessCCTV Mobile Surveillance Systems</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>IPDS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0000/4610/products/ipx360_badge_400x400_wireless.jpg?v=1420905580"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IPDS<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            129.00 - 720.00
+            <a href="https://www.ipx360solutions.com/products/4g-lte-broadband-services-for-predator-4g-and-wirelesscctv-mobile-surveillance-systems">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>IPX360 Solutions offers a custom range of LTE SIM cards and Data plans designed especially for our PREDATOR-4G and WirelessCCTV Mobile Video Surveillance products</p>
+<p>NOTE: PLANS ARE FOR APPROVED CONNECTED DEVICES AND ARE FOR USE IN CANADA ONLY. PLANS ARE NOT INTENDED FOR VOICE OR TEXT (SMS). Other conditions apply. Contact us for details<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.ipx360solutions.com/products/402697576</id>
+      <title>6GB/month Wireless LTE Broadband Data Service Package (3 months prepaid)</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>IPDS-6GB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.ipx360solutions.com/products/402697576</id>
+      <title>10GB/month Wireless LTE Broadband Data Service Package (3 months prepaid)</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>IPDS-10GB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.ipx360solutions.com/products/402697576</id>
+      <title>20GB/month Wireless LTE Broadband Data Service Package (3 months prepaid)</title>
+      <s:price currency="USD">360.00</s:price>
+      <s:sku>IPDS-20GB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.ipx360solutions.com/products/402697576</id>
+      <title>50GB/month Wireless LTE Broadband Data Service Package (3 months prepaid)</title>
+      <s:price currency="USD">720.00</s:price>
+      <s:sku>IPDS-50GB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

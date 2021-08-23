@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.ipx360solutions.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.ipx360solutions.com/collections/wireless-cctv.atom"/>
+  <title>IPX360 Solutions Inc</title>
+  <updated>2020-07-03T13:00:03-04:00</updated>
+  <author>
+    <name>IPX360 Solutions Inc</name>
+  </author>
+  <entry>
+    <id>https://www.ipx360solutions.com/products/402697576</id>
+    <published>2020-07-03T13:00:03-04:00</published>
+    <updated>2020-07-03T13:00:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/products/4g-lte-broadband-services-for-predator-4g-and-wirelesscctv-mobile-surveillance-systems"/>
+    <title>LTE SIM Card and Wireless Broadband Plans for PREDATOR-4G or WirelessCCTV Mobile Surveillance Systems</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>IPDS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0000/4610/products/ipx360_badge_400x400_wireless.jpg?v=1420905580"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IPDS<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            129.00 - 720.00
+            <a href="https://www.ipx360solutions.com/products/4g-lte-broadband-services-for-predator-4g-and-wirelesscctv-mobile-surveillance-systems">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>IPX360 Solutions offers a custom range of LTE SIM cards and Data plans designed especially for our PREDATOR-4G and WirelessCCTV Mobile Video Surveillance products</p>
+<p>NOTE: PLANS ARE FOR APPROVED CONNECTED DEVICES AND ARE FOR USE IN CANADA ONLY. PLANS ARE NOT INTENDED FOR VOICE OR TEXT (SMS). Other conditions apply. Contact us for details<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.ipx360solutions.com/products/402697576</id>
+      <title>6GB/month Wireless LTE Broadband Data Service Package (3 months prepaid)</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>IPDS-6GB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.ipx360solutions.com/products/402697576</id>
+      <title>10GB/month Wireless LTE Broadband Data Service Package (3 months prepaid)</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>IPDS-10GB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.ipx360solutions.com/products/402697576</id>
+      <title>20GB/month Wireless LTE Broadband Data Service Package (3 months prepaid)</title>
+      <s:price currency="USD">360.00</s:price>
+      <s:sku>IPDS-20GB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.ipx360solutions.com/products/402697576</id>
+      <title>50GB/month Wireless LTE Broadband Data Service Package (3 months prepaid)</title>
+      <s:price currency="USD">720.00</s:price>
+      <s:sku>IPDS-50GB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.ipx360solutions.com/products/375507976</id>
+    <published>2014-10-18T15:53:00-04:00</published>
+    <updated>2014-10-18T15:53:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.ipx360solutions.com/products/wireless-cctv-nano"/>
+    <title>Wireless CCTV NANO Compact Single Channel 4G Wireless Surveillance Unit</title>
+    <s:type>Camera</s:type>
+    <s:vendor>WCCTV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0000/4610/products/Nano_Centre.png.jpg?v=1413663159"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WCCTV<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Wireless CCTV NANO is a compact, single channel 4G surveillance unit which can be be used with fixed, PTZ, analog or IP cameras <span style="background-color: rgba(255,255,255,0);">providing reliable transmission of live and recorded video, bi-directional audio, and GPS information over wireless technologies including 4G, LTE and CDMA mobile phone networks.</span></p>
+<p>The small and totally portable unit contains a removable compact flash card for digital evidential quality recording. Users can monitor either live or recorded video or footage from any remote site via 3G HSUPA mobile connectivity. An automatic fall-back to HSUPA, UMTS and GPRS provides optimal flexibility. The product is future-proofed and designed to operate on all latest generation mobile networks.</p>
+<p>Key Features:</p>
+<ul>
+<li>Small and totally portable</li>
+<li>Mobile &amp; Flexible</li>
+<li>Remote access to live video</li>
+<li>Remote access to evidential digital recordings</li>
+<li>Rapid installation and easy re-deployment</li>
+<li>Hybrid camera functionality (fixed, PTZ, analog, IP)</li>
+<li>Multiple transmission options</li>
+<li>Full system integration</li>
+</ul>
+<p>Possible Applications</p>
+<ul>
+<li>Ideal for re-deployable solutions in temporary, mobile or semi permanent situations (traffic, construction, events, sport)</li>
+<li>Mobile Video applications</li>
+<li>Public space monitoring</li>
+<li>Remote evidence gathering (cable theft, vandalism, harassment)</li>
+<li>Surveillance in hazardous or remote areas</li>
+</ul>
+<p>Related links:</p>
+<ul>
+<li><a title="Wireless CCTV Systems" href="http://www.ipx360solutions.com/collections/wireless-cctv">Wireless CCTV Systems</a></li>
+<li><a title="PREDATOR-4G Rapid Deployment PTZ Camera" href="http://www.ipx360solutions.com/collections/predator-4g-rapidly-deployable-wireless-camera-systems">PREDATOR-4G Rapidly Deployable Wireless Motorized PTZ Camera Systems</a></li>
+<li><a title="360 PREDATOR Rugged PTZ Cameras" href="http://www.ipx360solutions.com/collections/predatorcctv">360 PREDATOR Rugged PTZ Cameras</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CCTV</s:tag>
+    <s:tag>Security</s:tag>
+    <s:tag>WCCTV</s:tag>
+    <s:variant>
+      <id>https://www.ipx360solutions.com/products/375507976</id>
+      <title>WCCTV-NANO</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>WCCTV-NANO</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+</feed>
